@@ -1,0 +1,13 @@
+# Local clones of mined repositories (Phase 2)
+corpus/clones/
+
+# Pseudonymisation correspondence table: never in the repository
+*identity_map*
+
+# Secrets and local settings
+*.env
+
+# Office lock files and OS files
+~$*
+Thumbs.db
+desktop.ini
