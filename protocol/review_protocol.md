@@ -121,6 +121,11 @@ Forward snowballing from the 2023 mapping is what brings the review up to date.
 New candidates go through Step 2.
 Snowballing is repeated on the newly included studies until one full iteration adds no new included study.
 
+Each iteration is recorded in the snowballing log, with one row per candidate.
+A row holds the iteration, the date, the start study, the direction (backward or forward), the candidate and the decision.
+A candidate already found by the database search or by an earlier iteration is marked as already known and is not screened again.
+The stopping criterion is shown by the last iteration, in which no candidate is included.
+
 ## 7. Step 4: data extraction
 
 The same fields are extracted from every included study into one table:
@@ -131,6 +136,7 @@ The same fields are extracted from every included study into one table:
 - detection technique (manual, rule-based, lexical, embedding-based, execution-based, other);
 - framework and language;
 - corpus (number of projects, files and scenarios; single snapshot or history);
+- type of evidence: definition only (`definition_only`), measurement at a single point in time (`snapshot`) or measurement over a project's history (`longitudinal`);
 - validation (labelled data, number of raters, agreement, precision and recall);
 - availability and licence of the tool;
 - main findings and stated limitations.
@@ -178,6 +184,7 @@ The following are kept in the project repository, under version control:
 - the protocol (`protocol/review_protocol.md`);
 - for each search, the source, the string, the date, the number of records (`review/searches/search_log.csv`) and the exported records (`review/searches/raw/`);
 - the screening sheet, with the decision and the reason for each record (`review/screening.csv`);
+- the snowballing log, with the start study, direction, candidates and decisions of each iteration (`review/snowballing.csv`);
 - the extraction table (`review/extraction.csv`);
 - the comparison table of Part 2 (`tool_survey/tool_comparison.csv`).
 
