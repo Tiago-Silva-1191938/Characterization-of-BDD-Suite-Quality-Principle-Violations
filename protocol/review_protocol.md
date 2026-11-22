@@ -1,6 +1,6 @@
 # Literature review protocol
 
-Version: draft (not yet frozen)
+Version: 1, frozen on 2026-11-22 (Git tag `protocol-v1`)
 
 This procedure is written into a protocol before the search starts.
 Any later change is recorded in the change log, with its date and reason.
@@ -74,10 +74,56 @@ The string is piloted before use and adjusted until it retrieves:
 - Binamungu et al. (2018), Binamungu et al. (2020) and Binamungu and Maro (2023), in at least one of the peer-reviewed sources;
 - Mughal et al. (2026a), in arXiv.
 
+The pilot was run on 2026-11-22 and is recorded in `review/searches/pilot.csv`.
+It passed:
+- Web of Science retrieved Binamungu et al. (2018), Binamungu et al. (2020) and Binamungu and Maro (2023);
+- IEEE Xplore retrieved Binamungu et al. (2018), the only control study it indexes;
+- the ACM Full-Text Collection indexes none of the control studies, so their absence there is not a failure of the string;
+- arXiv retrieved Mughal et al. (2026a).
+
+The pilot also checked truncation inside quotes ("step definition*").
+It works as phrase truncation in Web of Science and makes no difference in arXiv.
+In IEEE Xplore it breaks the phrase, so the IEEE string uses "step definition" without truncation.
+It was not tested in ACM, whose string also uses "step definition" without truncation.
+
+### Final string per source
+
+Each source needs its own syntax, for the reasons recorded in `review/searches/pilot.csv`.
+The strings below are used unchanged in the searches.
+
+**Web of Science Core Collection** (Advanced Search; `TS=` covers title, abstract, author keywords and Keywords Plus):
+
+```
+#1  TS=("behaviour driven development" OR "behavior driven development" OR "behaviour-driven development" OR "behavior-driven development" OR Gherkin OR (Cucumber AND (scenario* OR "step definition*"))) AND TS=(quality OR smell* OR metric* OR duplicat* OR maintenance OR maintainab* OR refactor* OR evolution)
+#2  #1 AND LA=(English)
+```
+
+**arXiv** (API at `https://export.arxiv.org/api/query?max_results=500&search_query=`, all archives; `ti:` and `abs:` on each term):
+
+```
+(ti:"behaviour driven development" OR abs:"behaviour driven development" OR ti:"behavior driven development" OR abs:"behavior driven development" OR ti:Gherkin OR abs:Gherkin OR ((ti:Cucumber OR abs:Cucumber) AND (ti:scenario* OR abs:scenario* OR ti:"step definition*" OR abs:"step definition*"))) AND (ti:quality OR abs:quality OR ti:smell* OR abs:smell* OR ti:metric* OR abs:metric* OR ti:duplicat* OR abs:duplicat* OR ti:maintenance OR abs:maintenance OR ti:maintainab* OR abs:maintainab* OR ti:refactor* OR abs:refactor* OR ti:evolution OR abs:evolution)
+```
+
+**IEEE Xplore** (Command Search; field tag on each term):
+
+```
+("Document Title":"behaviour driven development" OR "Abstract":"behaviour driven development" OR "Author Keywords":"behaviour driven development" OR "Document Title":"behavior driven development" OR "Abstract":"behavior driven development" OR "Author Keywords":"behavior driven development" OR "Document Title":Gherkin OR "Abstract":Gherkin OR "Author Keywords":Gherkin OR (("Document Title":Cucumber OR "Abstract":Cucumber OR "Author Keywords":Cucumber) AND ("Document Title":scenario OR "Abstract":scenario OR "Author Keywords":scenario OR "Document Title":"step definition" OR "Abstract":"step definition" OR "Author Keywords":"step definition"))) AND ("Document Title":quality OR "Abstract":quality OR "Author Keywords":quality OR "Document Title":smell OR "Abstract":smell OR "Author Keywords":smell OR "Document Title":metric OR "Abstract":metric OR "Author Keywords":metric OR "Document Title":duplicat* OR "Abstract":duplicat* OR "Author Keywords":duplicat* OR "Document Title":maintenance OR "Abstract":maintenance OR "Author Keywords":maintenance OR "Document Title":maintainab* OR "Abstract":maintainab* OR "Author Keywords":maintainab* OR "Document Title":refactor* OR "Abstract":refactor* OR "Author Keywords":refactor* OR "Document Title":evolution OR "Abstract":evolution OR "Author Keywords":evolution)
+```
+
+**ACM Digital Library** (Advanced Search, ACM Full-Text Collection; Title, Abstract and Keyword fields):
+
+```
+(Title:("behaviour driven development" OR "behavior driven development" OR Gherkin) OR Abstract:("behaviour driven development" OR "behavior driven development" OR Gherkin) OR Keyword:("behaviour driven development" OR "behavior driven development" OR Gherkin) OR ((Title:(Cucumber) OR Abstract:(Cucumber) OR Keyword:(Cucumber)) AND (Title:(scenario* OR "step definition") OR Abstract:(scenario* OR "step definition") OR Keyword:(scenario* OR "step definition")))) AND (Title:(quality OR smell* OR metric* OR duplicat* OR maintenance OR maintainab* OR refactor* OR evolution) OR Abstract:(quality OR smell* OR metric* OR duplicat* OR maintenance OR maintainab* OR refactor* OR evolution) OR Keyword:(quality OR smell* OR metric* OR duplicat* OR maintenance OR maintainab* OR refactor* OR evolution))
+```
+
+Only Web of Science has a language filter in the string.
+In the other sources, the language is checked during selection (Step 2).
+
 ### Recording
 
-For each source, the final string in the syntax of that source, the search date and the number of records returned are recorded.
-The string is not changed after screening starts.
+For each source, the final string in the syntax of that source, the search date and the number of records returned are recorded in `review/searches/search_log.csv`.
+The exported records are kept in `review/searches/raw/`.
+The strings are not changed after the protocol is frozen; any change is entered in the change log.
 
 ## 5. Step 2: selection
 
@@ -182,6 +228,7 @@ Only the cases the student cannot resolve are discussed with the supervisor.
 
 The following are kept in the project repository, under version control:
 - the protocol (`protocol/review_protocol.md`);
+- the pilot of the search string, with the string in the syntax of each source and the control studies found (`review/searches/pilot.csv`);
 - for each search, the source, the string, the date, the number of records (`review/searches/search_log.csv`) and the exported records (`review/searches/raw/`);
 - the screening sheet, with the decision and the reason for each record (`review/screening.csv`);
 - the snowballing log, with the start study, direction, candidates and decisions of each iteration (`review/snowballing.csv`);
@@ -223,3 +270,4 @@ Wohlin, C., Kalinowski, M., Felizardo, K. R., & Mendes, E. (2022). Successful co
 
 | Date | Section | Change | Reason |
 |---|---|---|---|
+| 2026-11-22 | All | Protocol frozen as version 1 (tag `protocol-v1`); later changes are entered below. | Fix the protocol before the first search (supervisor, e-mail of 21 Nov 2026). |
