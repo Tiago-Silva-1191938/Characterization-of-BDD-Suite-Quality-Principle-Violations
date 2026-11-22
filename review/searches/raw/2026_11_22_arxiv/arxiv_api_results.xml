@@ -1,0 +1,685 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/tHSLAaBx3TrG5w4jhl8FslHGeyg</id>
+  <title>arXiv Query: search_query=(ti:"behaviour driven development" OR abs:"behaviour driven development" OR ti:"behavior driven development" OR abs:"behavior driven development" OR ti:Gherkin OR abs:Gherkin OR ( (ti:Cucumber OR abs:Cucumber) AND (ti:scenario* OR abs:scenario* OR ti:"step definition*" OR abs:"step definition*") ) ) AND (ti:quality OR abs:quality OR ti:smell* OR abs:smell* OR ti:metric* OR abs:metric* OR ti:duplicat* OR abs:duplicat* OR ti:maintenance OR abs:maintenance OR ti:maintainab* OR abs:maintainab* OR ti:refactor* OR abs:refactor* OR ti:evolution OR abs:evolution)&amp;id_list=&amp;start=0&amp;max_results=500</title>
+  <updated>2026-11-22T20:10:02Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=(ti:%22behaviour+driven+development%22+OR+(abs:%22behaviour+driven+development%22+OR+(ti:%22behavior+driven+development%22+OR+(abs:%22behavior+driven+development%22+OR+(ti:Gherkin+OR+(abs:Gherkin+OR+((ti:Cucumber+OR+abs:Cucumber)+AND+(ti:scenario*+OR+(abs:scenario*+OR+(ti:%22step+definition*%22+OR+abs:%22step+definition*%22))))))))))+AND+(ti:quality+OR+(abs:quality+OR+(ti:smell*+OR+(abs:smell*+OR+(ti:metric*+OR+(abs:metric*+OR+(ti:duplicat*+OR+(abs:duplicat*+OR+(ti:maintenance+OR+(abs:maintenance+OR+(ti:maintainab*+OR+(abs:maintainab*+OR+(ti:refactor*+OR+(abs:refactor*+OR+(ti:evolution+OR+abs:evolution)))))))))))))))&amp;start=0&amp;max_results=500&amp;id_list=" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>500</opensearch:itemsPerPage>
+  <opensearch:totalResults>28</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2402.15928v1</id>
+    <title>Advancing BDD Software Testing: Dynamic Scenario Re-Usability And Step Auto-Complete For Cucumber Framework</title>
+    <updated>2024-02-24T23:15:39Z</updated>
+    <link href="https://arxiv.org/abs/2402.15928v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2402.15928v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>This paper presents and implements the re-usability of scenarios within scenarios for behavior-driven development (BDD) Gherkin test scripts in the Cucumber Java framework. Though the focus of the presented work is on scenario re-usability through an implementation within the Cucumber BDD Java framework, the paper also dives a little into the limitations of Cucumber single-threaded scenario execution model. This implementation increases the modularity and efficiency of the test suite. The paper also discusses VSCode step definition auto-completion integration, simplifying the test script writing process. This functionality is handy to Quality Assurance(QA) test writers, allowing instant access to relevant step definitions. In addition, the use of these methods in a popular continuous integration and delivery platform Jenkins as a Maven Java project is discussed. This integration with Jenkins, facilitates for more efficient test automation for continuous deployment scenarios. Empirical research and practical applications reveal significant improvements in the speed and efficiency of test writing, which is especially valuable for large and complex software projects. Integrating these methods into traditional sequential BDD practices paves the way towards more effective, efficient, and sustainable test automation strategies.</summary>
+    <category term="cs.SE" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.CY" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.PL" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2024-02-24T23:15:39Z</published>
+    <arxiv:comment>15 pages, 1 figure, multiple code segments</arxiv:comment>
+    <arxiv:primary_category term="cs.SE"/>
+    <author>
+      <name>A. H. Mughal</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2607.01980v1</id>
+    <title>Epic-Organized vs. Requirement-Aligned Gherkin: An Empirical Evaluation of LLM-Based Acceptance Criteria Generation</title>
+    <updated>2026-07-02T10:12:29Z</updated>
+    <link href="https://arxiv.org/abs/2607.01980v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2607.01980v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Automated authoring of Gherkin Behavior-Driven Development (BDD) acceptance criteria remains a manual bottleneck in requirements engineering. This study investigates whether epic-organized LLM-generated Gherkin produces higher quality and coverage than requirement-aligned generation. We compare our Timeless (an epic-organized LLM pipeline) approach against a naive large language model (LLM) baseline on four requirements documents (107 requirements) from the PURE dataset. Evaluation covers structural metrics, automated requirement coverage via TF-IDF and dense embeddings, and blind expert assessment by four researchers. In our evaluation, the JSON-constrained pipeline produced structurally valid scenarios across all generated outputs, while the zero-shot baseline achieved 99% structural validity. Semantic coverage was comparable to the baseline, with Timeless achieving 94.3% semantic Requirement Coverage Rate compared with 92.9% for the baseline. TF-IDF produced lower coverage scores for the epic-organized output, suggesting that lexical metrics may miss coverage when scenarios paraphrase requirements at a higher level of abstraction. Expert raters prefer the epic-organized strategy on Correctness (4.61 vs 4.14), Executability (4.61 vs 4.07), and Completeness (4.31 vs 3.50). Overall, the results suggest that epic-organized generation can improve perceived Gherkin quality while maintaining comparable semantic coverage, although broader replication is needed before generalizing this finding.</summary>
+    <category term="cs.SE" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-07-02T10:12:29Z</published>
+    <arxiv:comment>Accepted for publication at the International Conference on Software Engineering of Emerging Technologies (SEET 2026)</arxiv:comment>
+    <arxiv:primary_category term="cs.SE"/>
+    <arxiv:journal_ref>Communications in Computer and Information Science, volume 3126, pages 85-100, Springer, 2027</arxiv:journal_ref>
+    <author>
+      <name>Shahbaz Siddeeq</name>
+    </author>
+    <author>
+      <name>Mateen Abbasi</name>
+    </author>
+    <author>
+      <name>Jussi Rasku</name>
+    </author>
+    <author>
+      <name>Zheying Zhang</name>
+    </author>
+    <author>
+      <name>François Christophe</name>
+    </author>
+    <author>
+      <name>Tommi Mikkonen</name>
+    </author>
+    <author>
+      <name>Pekka Abrahamsson</name>
+    </author>
+    <arxiv:doi>10.1007/978-3-032-39766-9_4</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.1007/978-3-032-39766-9_4" title="doi"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2604.20462v3</id>
+    <title>Deja Vu at Scale: Paraphrase-Robust Detection of Duplicate Gherkin Steps in Behaviour-Driven Software Testing with Sentence-Transformer Embeddings and a 1.1M-Step Open Benchmark</title>
+    <updated>2026-06-12T07:43:16Z</updated>
+    <link href="https://arxiv.org/abs/2604.20462v3" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2604.20462v3" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Context. Behaviour-Driven Development (BDD) suites in Gherkin accumulate step-text duplication
+  with documented maintenance cost. Prior detectors either require runnable tests or are
+  single-organisation, leaving a gap: a static, paraphrase-robust, step-level detector and a public
+  benchmark to calibrate it.
+  Objective. We release (i) the largest cross-organisational BDD step corpus to date, (ii) a
+  labelled pair-level calibration benchmark, and (iii) a four-strategy detector with a
+  consolidation-savings model linking clusters to ISO/IEC 25010 maintainability
+  sub-characteristics.
+  Method. The corpus contains 347 public GitHub repositories, 23,667 .feature files, and 1,113,616
+  Gherkin steps, SPDX-tagged. The detector layers exact hashing, normalised Levenshtein,
+  sentence-transformer cosine, and a Levenshtein-banded hybrid. Calibration uses 1,020 manually
+  labelled step pairs under a released rubric (60-pair overlap, Fleiss kappa = 0.84). We report
+  precision, recall, and F1 with bootstrap 95% CIs under the primary rubric and a score-free
+  relabelling, and benchmark against SourcererCC-style and NiCad-style lexical baselines.
+  Results. Step-weighted exact-duplicate rate is 80.2%; median-repository rate is 58.6% (Spearman
+  rho = 0.51). The top hybrid cluster has 20,737 occurrences across 2,245 files. Near-exact reaches
+  F1 = 0.822 on score-free labels; semantic F1 = 0.906 under the primary rubric reflects a
+  disclosed stratification artefact. Lexical baselines reach F1 = 0.761 and 0.799. The savings
+  model estimates 893,357 corpus-wide eliminable step occurrences; on the median repository 62.5%
+  of step lines are eliminable.</summary>
+    <category term="cs.SE" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.CL" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.IR" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-04-22T11:44:05Z</published>
+    <arxiv:comment>28 pages, 2 figures, 4 tables. Submitted to Information and Software Technology (Elsevier). Tool, corpus, labelled benchmark, and rubric released at https://github.com/amughalbscs16/cukereuse-release under Apache-2.0</arxiv:comment>
+    <arxiv:primary_category term="cs.SE"/>
+    <author>
+      <name>Ali Hassaan Mughal</name>
+    </author>
+    <author>
+      <name>Noor Fatima</name>
+    </author>
+    <author>
+      <name>Muhammad Bilal</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2609.15318v1</id>
+    <title>LLM-enabled Behavior Driven Development Workflow for Formally Verified Hardware Designs</title>
+    <updated>2026-09-14T10:08:48Z</updated>
+    <link href="https://arxiv.org/abs/2609.15318v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2609.15318v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Recently, the use of Large Language Models (LLMs) for different tasks in the Electronic Design Automation (EDA) life-cycle has been studied extensively, but an integrated view is lacking. Specifications are the foundation of this life-cycle, but they suffer from ambiguity when written in natural language, which especially affects the quality of LLM output. Formal specifications mitigate these ambiguities, but they come with their own challenges. On the other hand, Controlled Natural Language (CNL) specifications can serve as a middle-ground, reducing ambiguity while retaining interpretability. In this work, we propose an integrated view on the use of LLMs for EDA and establish an LLM-enabled behavior driven hardware development workflow. We introduce and define Formal Verification Gherkin Scenarios (FV Gherkin Scenarios), unlocking CNL specifications as the foundation for formally verified hardware designs via Formal Property Verification (FPV). Experimental evaluation shows that our workflow is able to outperform other established LLM-based methods by 2.48x in functional correctness of generated Register Transfer Level (RTL) designs and by 2.54x in formal coverage of generated assertions for FPV.</summary>
+    <category term="cs.AR" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.SE" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-09-14T10:08:48Z</published>
+    <arxiv:primary_category term="cs.AR"/>
+    <author>
+      <name>Luca Müller</name>
+    </author>
+    <author>
+      <name>Qian Liu</name>
+    </author>
+    <author>
+      <name>Rolf Drechsler</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2603.04729v1</id>
+    <title>Behaviour Driven Development Scenario Generation with Large Language Models</title>
+    <updated>2026-03-05T02:05:48Z</updated>
+    <link href="https://arxiv.org/abs/2603.04729v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2603.04729v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>This paper presents an evaluation of three LLMs, GPT-4, Claude 3, and Gemini, for automated Behaviour-Driven Development (BDD) scenarios generation. To support this evaluation, we constructed a dataset of 500 user stories, requirement descriptions, and their corresponding BDD scenarios, drawn from four proprietary software products. We assessed the quality of BDD scenarios generated by LLMs using a multidimensional evaluation framework encompassing text and semantic similarity metrics, LLM-based evaluation, and human expert assessment. Our findings reveal that although GPT-4 achieves higher scores in text and semantic similarity metrics, Claude 3 produces scenarios rated highest by both human experts and LLM-based evaluators. LLM-based evaluators, particularly DeepSeek, show a stronger correlation with human judgment than with text similarity and semantic similarity metrics. The effectiveness of prompting techniques is model-specific: GPT-4 performs best with zero-shot, Claude 3 benefits from chain-of-thought reasoning, and Gemini achieves optimal results with few-shot examples. Input quality determines the effectiveness of BDD scenario generation: detailed requirement descriptions alone yield high-quality scenarios, whereas user stories alone yield low-quality scenarios. Our experiments indicate that setting temperature to 0 and top_p to 1.0 produced the highest-quality BDD scenarios across all models.</summary>
+    <category term="cs.SE" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-03-05T02:05:48Z</published>
+    <arxiv:primary_category term="cs.SE"/>
+    <author>
+      <name>Amila Rathnayake</name>
+    </author>
+    <author>
+      <name>Mojtaba Shahin</name>
+    </author>
+    <author>
+      <name>Golnoush Abaei</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2508.20744v2</id>
+    <title>From Law to Gherkin: A Human-Centred Quasi-Experiment on the Quality of LLM-Generated Behavioural Specifications from Food-Safety Regulations</title>
+    <updated>2026-03-11T16:05:10Z</updated>
+    <link href="https://arxiv.org/abs/2508.20744v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2508.20744v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Context: Laws and regulations increasingly shape software design, development, and quality assurance in regulated domains. Because legal provisions are written in technology-neutral language, deriving concrete specifications, requirements, and acceptance criteria to verify software compliance is difficult and error-prone. Recent advances in generative AI, especially large language models (LLMs), may help automate this process.
+  Objective: We present the first systematic human-subject evaluation of LLMs' ability to derive Gherkin behavioural specifications from legal texts using a quasi-experimental design. Gherkin is a domain-specific language for scenario-based system behaviour descriptions in Given-When-Then form and is well suited to automation in software development.
+  Methods: Ten participants evaluated 60 Gherkin specifications generated from food-safety regulations by Claude and Llama. Each participant assessed 12 specifications across five criteria: relevance, clarity, completeness, singularity, and time savings. Each specification was evaluated by two participants, yielding 120 assessments with quantitative ratings and qualitative feedback.
+  Results: Ratings were uniformly high in the top two categories: relevance 95%, clarity 100%, completeness 94.2%, singularity 93.4%, and time savings 91.7%. No statistically reliable differences were found across participants or between LLMs. Qualitative feedback noted occasional omissions, hallucinations, and mixed intents, underscoring the need for human oversight, especially in safety-critical domains.
+  Conclusion: In food safety, LLMs can assist in deriving Gherkin specifications from legal texts, but omissions and hallucinations require systematic human review.</summary>
+    <category term="cs.SE" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2025-08-28T13:04:34Z</published>
+    <arxiv:comment>This article has been accepted for publication in Information and Software Technology (IST)</arxiv:comment>
+    <arxiv:primary_category term="cs.SE"/>
+    <author>
+      <name>Shabnam Hassani</name>
+    </author>
+    <author>
+      <name>Mehrdad Sabetzadeh</name>
+    </author>
+    <author>
+      <name>Daniel Amyot</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2305.05567v1</id>
+    <title>Behaviour Driven Development: A Systematic Mapping Study</title>
+    <updated>2023-05-09T15:56:02Z</updated>
+    <link href="https://arxiv.org/abs/2305.05567v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2305.05567v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Context: Behaviour Driven Development (BDD) uses scenarios written in semi-structured natural language to express software requirements in a way that can be understood by all stakeholders. The resulting natural language specifications can also be executed to reveal correct and problematic parts of a software. Although BDD was introduced about two decades ago, there is a lack of secondary studies in peer-reviewed scientific literature.
+  Objective: To understand the current state of BDD research by conducting a systematic mapping study that covers studies published from 2006 to 2021.
+  Method: By following the guidelines for conducting systematic mapping studies in software engineering, we sought to answer research questions on types of venues in which BDD papers have been published, research, contributions, studied topics and their evolution, and evaluation methods used in published BDD research.
+  Results: The study identified 166 papers which were mapped. Key results include the following: the dominance of conference papers; scarcity of research with insights from the industry; shortage of philosophical papers on BDD; acute shortage of metrics for measuring various aspects of BDD specifications and the processes for producing BDD specifications; the dominance of studies on using BDD for facilitating various software development endeavours, improving the BDD process and associated artefacts, and applying BDD in different contexts; scarcity of studies on using BDD alongside other software techniques and technologies; increase in diversity of studied BDD topics; and notable use of case studies and experiments to study different BDD aspects.
+  Conclusion: The paper improves our understanding of the state of the art of BDD, and highlights important areas of focus for future BDD research.</summary>
+    <category term="cs.SE" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2023-05-09T15:56:02Z</published>
+    <arxiv:comment>65 pages, 11 figures, accepted for publication by The Journal of Systems and Software</arxiv:comment>
+    <arxiv:primary_category term="cs.SE"/>
+    <author>
+      <name>Leonard Peter Binamungu</name>
+    </author>
+    <author>
+      <name>Salome Maro</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2506.17057v1</id>
+    <title>Behavior Driven Development for 3D Games</title>
+    <updated>2025-06-20T15:09:07Z</updated>
+    <link href="https://arxiv.org/abs/2506.17057v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2506.17057v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Computer 3D games are complex software environments that require novel testing processes to ensure high-quality standards. The Intelligent Verification/Validation for Extended Reality Based Systems (iv4XR) framework addresses this need by enabling the implementation of autonomous agents to automate game testing scenarios. This framework facilitates the automation of regression test cases for complex 3D games like Space Engineers. Nevertheless, the technical expertise required to define test scripts using iv4XR can constrain seamless collaboration between developers and testers. This paper reports how integrating a Behavior-driven Development (BDD) approach with the iv4XR framework allows the industrial company behind Space Engineers to automate regression testing. The success of this industrial collaboration has inspired the iv4XR team to integrate the BDD approach to improve the automation of play-testing for the experimental 3D game LabRecruits. Furthermore, the iv4XR framework has been extended with tactical programming to enable the automation of long-play test scenarios in Space Engineers. These results underscore the versatility of the iv4XR framework in supporting diverse testing approaches while showcasing how BDD empowers users to create, manage, and execute automated game tests using comprehensive and human-readable statements.</summary>
+    <category term="cs.SE" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2025-06-20T15:09:07Z</published>
+    <arxiv:primary_category term="cs.SE"/>
+    <author>
+      <name>Fernando Pastor Ricós</name>
+    </author>
+    <author>
+      <name>Beatriz Marín</name>
+    </author>
+    <author>
+      <name>I. S. W. B. Prasetya</name>
+    </author>
+    <author>
+      <name>Tanja E. J. Vos</name>
+    </author>
+    <author>
+      <name>Joseph Davidson</name>
+    </author>
+    <author>
+      <name>Karel Hovorka</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/1005.4975v1</id>
+    <title>Filling the Gap between Business Process Modeling and Behavior Driven Development</title>
+    <updated>2010-05-27T01:08:58Z</updated>
+    <link href="https://arxiv.org/abs/1005.4975v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/1005.4975v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Behavior Driven Development (NORTH, 2006) is a specification technique that is growing in acceptance in the Agile methods communities. BDD allows to securely verify that all functional requirements were treated properly by source code, by connecting the textual description of these requirements to tests.
+  On the other side, the Enterprise Information Systems (EIS) researchers and practitioners defends the use of Business Process Modeling (BPM) to, before defining any part of the system, perform the modeling of the system's underlying business process. Therefore, it can be stated that, in the case of EIS, functional requirements are obtained by identifying Use Cases from the business process models.
+  The aim of this paper is, in a narrower perspective, to propose the use of Finite State Machines (FSM) to model business process and then connect them to the BDD machinery, thus driving better quality for EIS. In a broader perspective, this article aims to provoke a discussion on the mapping of the various BPM notations, since there isn't a real standard for business process modeling (Moller et al., 2007), to BDD.
+  Firstly a historical perspective of the evolution of previous proposals from which this one emerged will be presented, and then the reasons to change from Model Driven Development (MDD) to BDD will be presented also in a historical perspective. Finally the proposal of using FSM, specifically by using UML Statechart diagrams, will be presented, followed by some conclusions.</summary>
+    <category term="cs.SE" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2010-05-27T01:08:58Z</published>
+    <arxiv:comment>5 pages, 1 figure, original work</arxiv:comment>
+    <arxiv:primary_category term="cs.SE"/>
+    <author>
+      <name>Rogerio Atem de Carvalho</name>
+    </author>
+    <author>
+      <name>Rodrigo Soares Manhães</name>
+    </author>
+    <author>
+      <name>Fernando Luis de Carvalho e Silva</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2411.04141v1</id>
+    <title>A Comparative Study on the Impact of Test-Driven Development (TDD) and Behavior-Driven Development (BDD) on Enterprise Software Delivery Effectiveness</title>
+    <updated>2024-11-05T06:47:11Z</updated>
+    <link href="https://arxiv.org/abs/2411.04141v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2411.04141v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>This paper compares the impact of Test-Driven Development (TDD) and Behavior-Driven Development (BDD) on software delivery effectiveness within enterprise environments. Using a qualitative research design, data were collected through in-depth interviews with developers and project managers from enterprises adopting TDD or BDD. Moreover, the findings reveal distinct effects of each model on delivery speed, software quality, and team collaboration. Specifically, TDD emphasizes early testing and iterative development, leading to enhanced code quality and fewer defects, while BDD improves cross-functional communication by focusing on behavior specifications that involve stakeholders directly. However, TDD may create a higher initial time investment, and BDD might encounter challenges in requirement clarity. These differences highlight gaps in understanding how each model aligns with varying project types and stakeholder needs, which can guide enterprises in selecting the most suitable model for their unique requirements. The study contributes to the literature by providing insights into the practical application and challenges of TDD and BDD, suggesting future research on their long-term impacts in diverse settings.</summary>
+    <category term="cs.SE" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.CL" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2024-11-05T06:47:11Z</published>
+    <arxiv:primary_category term="cs.SE"/>
+    <author>
+      <name>Jun Cui</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2607.19703v1</id>
+    <title>Bridging Behavior and Implementation: Automated Java Glue Code Generation for Behavior-Driven Development</title>
+    <updated>2026-07-22T03:06:45Z</updated>
+    <link href="https://arxiv.org/abs/2607.19703v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2607.19703v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Behavior-Driven Development (BDD) helps technical and non-technical stakeholders share a common understanding of software requirements through natural-language scenarios. Glue code makes these scenarios executable by mapping each step to the corresponding project code. However, developing and maintaining glue code requires knowledge of both the intended behavior and the underlying codebase, making it a labor-intensive part of BDD as requirements evolve. Although large language models (LLMs) have shown strong code generation capabilities, their use for automated glue code generation remains unexplored. This task requires reasoning over underspecified behavior, related BDD artifacts, and large project codebases. We present AutoGlue, a hierarchical multi-agent framework for automated Java glue code generation. AutoGlue follows a behavior-first workflow that separates behavior interpretation, context retrieval, and code generation. A Behavior Interpreter derives the intent of a step from its scenario context, while a Developer agent retrieves relevant BDD artifacts and project code before generating the final glue code. We evaluate AutoGlue on 1,307 steps from eight open-source Java projects. Compared with few-shot prompting, AutoGlue improves API F1 by 58.7% and CodeBLEU by 43.7%. It produces directly usable glue code for 46.1% of the evaluated steps, while most partially correct outputs require only minor revisions, such as adding missing actions or refining parameters. Ablation results show that behavior interpretation and project-aware context retrieval both contribute substantially to generation quality. These findings demonstrate that LLMs can effectively connect natural-language behavior specifications with project code and support specification-driven software development.</summary>
+    <category term="cs.SE" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-07-22T03:06:45Z</published>
+    <arxiv:primary_category term="cs.SE"/>
+    <author>
+      <name>Xinyu Shi</name>
+    </author>
+    <author>
+      <name>Zhou Yang</name>
+    </author>
+    <author>
+      <name>An Ran Chen</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2511.15733v1</id>
+    <title>Technique to Baseline QE Artefact Generation Aligned to Quality Metrics</title>
+    <updated>2025-11-18T05:09:38Z</updated>
+    <link href="https://arxiv.org/abs/2511.15733v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2511.15733v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Large Language Models (LLMs) are transforming Quality Engineering (QE) by automating the generation of artefacts such as requirements, test cases, and Behavior Driven Development (BDD) scenarios. However, ensuring the quality of these outputs remains a challenge. This paper presents a systematic technique to baseline and evaluate QE artefacts using quantifiable metrics. The approach combines LLM-driven generation, reverse generation , and iterative refinement guided by rubrics technique for clarity, completeness, consistency, and testability. Experimental results across 12 projects show that reverse-generated artefacts can outperform low-quality inputs and maintain high standards when inputs are strong. The framework enables scalable, reliable QE artefact validation, bridging automation with accountability.</summary>
+    <category term="cs.SE" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.AI" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2025-11-18T05:09:38Z</published>
+    <arxiv:primary_category term="cs.SE"/>
+    <author>
+      <name>Eitan Farchi</name>
+    </author>
+    <author>
+      <name>Kiran Nayak</name>
+    </author>
+    <author>
+      <name>Papia Ghosh Majumdar</name>
+    </author>
+    <author>
+      <name>Saritha Route</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2510.18861v1</id>
+    <title>Streamlining Acceptance Test Generation for Mobile Applications Through Large Language Models: An Industrial Case Study</title>
+    <updated>2025-10-21T17:54:09Z</updated>
+    <link href="https://arxiv.org/abs/2510.18861v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2510.18861v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Mobile acceptance testing remains a bottleneck in modern software development, particularly for cross-platform mobile development using frameworks like Flutter. While developers increasingly rely on automated testing tools, creating and maintaining acceptance test artifacts still demands significant manual effort. To help tackle this issue, we introduce AToMIC, an automated framework leveraging specialized Large Language Models to generate Gherkin scenarios, Page Objects, and executable UI test scripts directly from requirements (JIRA tickets) and recent code changes. Applied to BMW's MyBMW app, covering 13 real-world issues in a 170+ screen codebase, AToMIC produced executable test artifacts in under five minutes per feature on standard hardware. The generated artifacts were of high quality: 93.3% of Gherkin scenarios were syntactically correct upon generation, 78.8% of PageObjects ran without manual edits, and 100% of generated UI tests executed successfully. In a survey, all practitioners reported time savings (often a full developer-day per feature) and strong confidence in adopting the approach. These results confirm AToMIC as a scalable, practical solution for streamlining acceptance test creation and maintenance in industrial mobile projects.</summary>
+    <category term="cs.SE" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2025-10-21T17:54:09Z</published>
+    <arxiv:primary_category term="cs.SE"/>
+    <arxiv:journal_ref>2025 40th IEEE/ACM International Conference on Automated Software Engineering (ASE)</arxiv:journal_ref>
+    <author>
+      <name>Pedro Luís Fonseca</name>
+    </author>
+    <author>
+      <name>Bruno Lima</name>
+    </author>
+    <author>
+      <name>João Pascoal Faria</name>
+    </author>
+    <arxiv:doi>10.1109/ASE63991.2025.00273</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.1109/ASE63991.2025.00273" title="doi"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2604.17464v1</id>
+    <title>Project Prometheus: Bridging the Intent Gap in Agentic Program Repair via Reverse-Engineered Executable Specifications</title>
+    <updated>2026-04-19T14:27:27Z</updated>
+    <link href="https://arxiv.org/abs/2604.17464v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2604.17464v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The transition from neural machine translation to agentic workflows has revolutionized Automated Program Repair (APR). However, existing agents, despite their advanced reasoning capabilities, frequently suffer from the ``Intent Gap'' -- the misalignment between the generated patch and the developer's original intent. Current solutions relying on natural language summaries or adversarial sampling often fail to provide the deterministic constraints required for surgical repairs.
+  In this paper, we introduce \textsc{Prometheus}, a novel framework that bridges this gap by prioritizing \textit{Specification Inference} over code generation. We employ Behavior-Driven Development (BDD) as an executable contract, utilizing a multi-agent architecture to reverse-engineer Gherkin specifications from runtime failure reports. To resolve the ``Hallucination of Intent,'' we propose a \textbf{Requirement Quality Assurance (RQA) Loop}, a mechanism that leverages ground-truth code as a proxy oracle to validate inferred specifications.
+  We evaluated \textsc{Prometheus} on 680 defects from the Defects4J benchmark. The results are transformative: our framework achieved a total correct patch rate of \textbf{93.97\%} (639/680). More significantly, it demonstrated a \textbf{Rescue Rate of 74.4\%}, successfully repairing 119 complex bugs that a strong blind agent failed to resolve. Qualitative analysis reveals that explicit intent guides agents away from structurally invasive over-engineering toward precise, minimal corrections. Our findings suggest that the future of APR lies not in larger models, but in the capability to align code with verified, \textbf{Executable Specifications} -- whether pre-existing or reverse-engineered.</summary>
+    <category term="cs.SE" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.AI" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-04-19T14:27:27Z</published>
+    <arxiv:primary_category term="cs.SE"/>
+    <author>
+      <name>Yongchao Wang</name>
+    </author>
+    <author>
+      <name>Zhiqiu Huang</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2504.16753v1</id>
+    <title>ViMoTest: A Tool to Specify ViewModel-Based GUI Test Scenarios using Projectional Editing</title>
+    <updated>2025-04-23T14:26:35Z</updated>
+    <link href="https://arxiv.org/abs/2504.16753v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2504.16753v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Automated GUI testing is crucial in ensuring that presentation logic behaves as expected. However, existing tools often apply end-to-end approaches and face challenges such as high specification efforts, maintenance difficulties, and flaky tests while coupling to GUI framework specifics. To address these challenges, we introduce the ViMoTest tool, which leverages Behavior-driven Development, the ViewModel architectural pattern, and projectional Domain-specific Languages (DSLs) to isolate and test presentation logic independently of GUI frameworks. We demonstrate the tool with a small JavaFX-based task manager example and generate executable code.</summary>
+    <category term="cs.SE" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2025-04-23T14:26:35Z</published>
+    <arxiv:comment>5 pages</arxiv:comment>
+    <arxiv:primary_category term="cs.SE"/>
+    <author>
+      <name>Mario Fuksa</name>
+    </author>
+    <author>
+      <name>Sandro Speth</name>
+    </author>
+    <author>
+      <name>Steffen Becker</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2605.14568v3</id>
+    <title>Given, When, Then, Again: Mining Subscenario Refactoring Candidates in Behaviour-Driven Test Suites with ML Classifiers and LLM-Judge Baselines</title>
+    <updated>2026-06-26T09:42:46Z</updated>
+    <link href="https://arxiv.org/abs/2605.14568v3" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2605.14568v3" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Context. Behaviour-Driven Development (BDD) test suites accumulate duplicated step subsequences. Three published refactoring patterns are available (within-file Background, within-repo reusable-scenario invocation, cross-organisational shared higher-level step), but no prior work automates which recurring subsequences are worth extracting or which mechanism applies. Objective. Rank recurring step subsequences ("slices") by refactoring suitability (extraction-worthy), pre-map each to one of the three patterns, and quantify prevalence across the public BDD ecosystem. Method. Every contiguous L-step window (L in [2, 18]) in a 339-repository / 276-upstream-owner Gherkin corpus is keyed by paraphrase-robust cluster identifiers and counted under three scopes. SBERT / UMAP / HDBSCAN clustering recovers paraphrase-equivalent slices. Three authors label a stratified 200-slice pool against a written rubric. An XGBoost extraction-worthy classifier trained under 5-fold cross-validation is compared with a tuned rule baseline and two open-weight Large Language Model (LLM) judges. Results. The miner produces 5,382,249 slices collapsing to 692,020 recurring patterns. Three-author Fleiss' kappa = 0.56 (extraction-worthy) and 0.79 (mechanism). The classifier reaches out-of-fold F1 = 0.891 (95% CI [0.852, 0.927]), outperforming both the rule baseline (F1 = 0.836, p = 0.017) and the better LLM judge (F1 = 0.728, p = 1.5e-4). 75.0%, 59.5%, and 11.7% of scenarios carry a within-file Background, within-repo reusable-scenario, and cross-organisational shared-step candidate, respectively; the figures are stable under a sweep of the classifier decision threshold. Conclusion. Paraphrase-robust subscenario discovery yields a corpus-wide census of BDD refactoring candidates; pipeline, classifier predictions, labelled pool, and rubric are released under Apache-2.0.</summary>
+    <category term="cs.SE" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.CL" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-05-14T08:38:04Z</published>
+    <arxiv:comment>31 pages, 10 figures, 6 tables, 56 references. v2: retitled; references corrected and verified; threshold-sensitivity and imbalance-robust metrics added; figures restyled. Code and data (Apache-2.0): https://github.com/amughalbscs16/cukereuse_subscenarios_release (archived: https://doi.org/10.5281/zenodo.20356527). Upstream corpus: https://doi.org/10.5281/zenodo.19754359</arxiv:comment>
+    <arxiv:primary_category term="cs.SE"/>
+    <author>
+      <name>Ali Hassaan Mughal</name>
+    </author>
+    <author>
+      <name>Noor Fatima</name>
+    </author>
+    <author>
+      <name>Muhammad Bilal</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2602.15591v1</id>
+    <title>Req2Road: A GenAI Pipeline for SDV Test Artifact Generation and On-Vehicle Execution</title>
+    <updated>2026-02-17T14:03:35Z</updated>
+    <link href="https://arxiv.org/abs/2602.15591v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2602.15591v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Testing functionality in Software-Defined Vehicles is challenging because requirements are written in natural language, specifications combine text, tables, and diagrams, while test assets are scattered across heterogeneous toolchains. Large Language Models and Vision-Language Models are used to extract signals and behavioral logic to automatically generate Gherkin scenarios, which are then converted into runnable test scripts. The Vehicle Signal Specification (VSS) integration standardizes signal references, supporting portability across subsystems and test benches. The pipeline uses retrieval-augmented generation to preselect candidate VSS signals before mapping. We evaluate the approach on the safety-relevant Child Presence Detection System, executing the generated tests in a virtual environment and on an actual vehicle. Our evaluation covers Gherkin validity, VSS mapping quality, and end-to-end executability. Results show that 32 of 36 requirements (89\%) can be transformed into executable scenarios in our setting, while human review and targeted substitutions remain necessary. This paper is a feasibility and architectural demonstration of an end-to-end requirements-to-test pipeline for SDV subsystems, evaluated on a CPDS case in simulation and Vehicle-in-the-Loop settings.</summary>
+    <category term="cs.SE" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-02-17T14:03:35Z</published>
+    <arxiv:comment>accepted at CAiSE 2026 main</arxiv:comment>
+    <arxiv:primary_category term="cs.SE"/>
+    <author>
+      <name>Denesa Zyberaj</name>
+    </author>
+    <author>
+      <name>Lukasz Mazur</name>
+    </author>
+    <author>
+      <name>Pascal Hirmer</name>
+    </author>
+    <author>
+      <name>Nenad Petrovic</name>
+    </author>
+    <author>
+      <name>Marco Aiello</name>
+    </author>
+    <author>
+      <name>Alois Knoll</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2506.06509v2</id>
+    <title>Private GPTs for LLM-driven testing in software development and machine learning</title>
+    <updated>2025-07-31T18:44:42Z</updated>
+    <link href="https://arxiv.org/abs/2506.06509v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2506.06509v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>In this contribution, we examine the capability of private GPTs to automatically generate executable test code based on requirements. More specifically, we use acceptance criteria as input, formulated as part of epics, or stories, which are typically used in modern development processes. This gives product owners, or business intelligence, respectively, a way to directly produce testable criteria through the use of LLMs. We explore the quality of the so-produced tests in two ways: i) directly by letting the LLM generate code from requirements, ii) through an intermediate step using Gherkin syntax. As a result, it turns out that the two-step procedure yields better results -where we define better in terms of human readability and best coding practices, i.e. lines of code and use of additional libraries typically used in testing. Concretely, we evaluate prompt effectiveness across two scenarios: a simple "Hello World" program and a digit classification model, showing that structured prompts lead to higher-quality test outputs.</summary>
+    <category term="cs.SE" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.AI" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2025-06-06T20:05:41Z</published>
+    <arxiv:comment>5 pages, 10 figures</arxiv:comment>
+    <arxiv:primary_category term="cs.SE"/>
+    <author>
+      <name>Jakub Jagielski</name>
+    </author>
+    <author>
+      <name>Consuelo Rojas</name>
+    </author>
+    <author>
+      <name>Markus Abel</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2607.24881v1</id>
+    <title>Behavior-Driven Explainability</title>
+    <updated>2026-07-27T09:23:11Z</updated>
+    <link href="https://arxiv.org/abs/2607.24881v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2607.24881v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>As system complexity has vastly increased, it has become significantly more challenging for a single person or a team to fully understand all aspects of an entire system. Particularly, this holds when considering all the different stages of a system's development life cycle, such as, e.g., design or maintenance. But especially for safety-critical systems it is essential that the final design can be trusted. Because of this, explainability is becoming an important requirement for modern systems. In this paper, we aim to achieve this goal by utilizing Behavior-Driven Development (BDD), where the expected system behavior is given in the form of structured scenarios. These scenarios give a sequence of actions for each functionality, and by this can be directly translated into explanations. We introduce this method of deriving explanations based on the specification as Behavior-Driven Explainability (BDX). While applicable at any development stage or abstraction level, a case study for the explanation of exceptions in a RISC-V processor shows the support this concept adds during system design.</summary>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.AR" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.SE" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-07-27T09:23:11Z</published>
+    <arxiv:comment>8 pages</arxiv:comment>
+    <arxiv:primary_category term="cs.LG"/>
+    <author>
+      <name>Caroline Dominik</name>
+    </author>
+    <author>
+      <name>Rolf Drechsler</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2605.18684v1</id>
+    <title>Reversa: A Reverse Documentation Engineering Framework for Converting Legacy Software into Operational Specifications for AI Agents</title>
+    <updated>2026-05-18T17:23:13Z</updated>
+    <link href="https://arxiv.org/abs/2605.18684v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2605.18684v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Legacy systems concentrate business rules, architectural decisions, and operational exceptions that often remain implicit in code, data, configuration, and
+  maintenance practices. At the same time, language-model-based coding agents depend on reliable context, correctness criteria, and behavioral contracts to
+  modify real systems with lower risk. This paper presents Reversa, a reverse documentation engineering framework for converting legacy software into
+  traceable operational specifications for AI agents. Reversa organizes this process as a multi-agent pipeline: specialized agents map the project surface,
+  analyze modules, extract implicit rules, synthesize architecture, write unit-level specifications, and review generated claims. The proposal emphasizes
+  three mechanisms: traceability between code and specification, explicit confidence marking, and preservation of gaps for human validation. The framework is
+  distributed as a Node.js CLI, installs skills across multiple agent engines, and uses a SHA-256 manifest to preserve modified files during update or
+  uninstall operations. In addition to the architectural description, we report an exploratory case study on migrating an ATM from COBOL to Go, in which the
+  pipeline produced 517 claims classified by an internal confidence index, 10 registered gaps, 53 Gherkin parity scenarios, and a reconstruction plan with 9
+  of 11 tasks completed at inventory time. Final parity validation and cutover were not completed in this study. We do not claim broad empirical superiority;
+  we position the contribution with respect to the literature on reverse engineering, LLM-based documentation, and software agents, and propose an evaluation
+  protocol with metrics for coverage, traceability, confidence, utility, and cost.</summary>
+    <category term="cs.SE" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.AI" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-05-18T17:23:13Z</published>
+    <arxiv:comment>Preprint. Includes a generative AI use statement</arxiv:comment>
+    <arxiv:primary_category term="cs.SE"/>
+    <author>
+      <name>Sanderson Oliveira de Macedo</name>
+    </author>
+    <author>
+      <name>Ronaldo Martins da Costa</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2311.03364v1</id>
+    <title>BDD-Based Framework with RL Integration: An approach for videogames automated testing</title>
+    <updated>2023-10-08T20:05:29Z</updated>
+    <link href="https://arxiv.org/abs/2311.03364v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2311.03364v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Testing plays a vital role in software development, but in the realm of video games, the process differs from traditional software development practices. Game developers typically rely on human testers who are provided with checklists to evaluate various elements. While major game developers already employ automated testing using script-based bots, the increasing complexity of video games is pushing the limits of scripted solutions, necessitating the adoption of more advanced testing strategies. To assist game studios in enhancing the quality of their games through automated testing, we propose the integration of Behavior Driven Development (BDD) with Reinforcement Learning (RL). This positional paper summarizes our proposal and framework under development.</summary>
+    <category term="cs.SE" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2023-10-08T20:05:29Z</published>
+    <arxiv:comment>4 pages, 3 figures</arxiv:comment>
+    <arxiv:primary_category term="cs.SE"/>
+    <author>
+      <name>Vincent Mastain</name>
+    </author>
+    <author>
+      <name>Fabio Petrillo</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2305.11619v1</id>
+    <title>Towards Code Generation from BDD Test Case Specifications: A Vision</title>
+    <updated>2023-05-19T11:54:52Z</updated>
+    <link href="https://arxiv.org/abs/2305.11619v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2305.11619v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Automatic code generation has recently attracted large attention and is becoming more significant to the software development process. Solutions based on Machine Learning and Artificial Intelligence are being used to increase human and software efficiency in potent and innovative ways. In this paper, we aim to leverage these developments and introduce a novel approach to generating frontend component code for the popular Angular framework. We propose to do this using behavior-driven development test specifications as input to a transformer-based machine learning model. Our approach aims to drastically reduce the development time needed for web applications while potentially increasing software quality and introducing new research ideas toward automatic code generation.</summary>
+    <category term="cs.SE" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.AI" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2023-05-19T11:54:52Z</published>
+    <arxiv:comment>Accepted for publication at the International Conference on AI Engineering (CAIN) 2023</arxiv:comment>
+    <arxiv:primary_category term="cs.SE"/>
+    <author>
+      <name>Leon Chemnitz</name>
+    </author>
+    <author>
+      <name>David Reichenbach</name>
+    </author>
+    <author>
+      <name>Hani Aldebes</name>
+    </author>
+    <author>
+      <name>Mariam Naveed</name>
+    </author>
+    <author>
+      <name>Krishna Narasimhan</name>
+    </author>
+    <author>
+      <name>Mira Mezini</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2503.08464v2</id>
+    <title>An Autonomous RL Agent Methodology for Dynamic Web UI Testing in a BDD Framework</title>
+    <updated>2025-03-12T01:31:03Z</updated>
+    <link href="https://arxiv.org/abs/2503.08464v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2503.08464v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Modern software applications demand efficient and reliable testing methodologies to ensure robust
+  user interface functionality. This paper introduces an autonomous reinforcement learning (RL) agent
+  integrated within a Behavior-Driven Development (BDD) framework to enhance UI testing. By
+  leveraging the adaptive decision-making capabilities of RL, the proposed approach dynamically
+  generates and refines test scenarios aligned with specific business expectations and actual user
+  behavior. A novel system architecture is presented, detailing the state representation, action space,
+  and reward mechanisms that guide the autonomous exploration of UI states. Experimental evaluations
+  on open-source web applications demonstrate significant improvements in defect detection, test
+  coverage, and a reduction in manual testing efforts. This study establishes a foundation for integrating
+  advanced RL techniques with BDD practices, aiming to transform software quality assurance and
+  streamline continuous testing processes.</summary>
+    <category term="cs.SE" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2025-03-11T14:12:50Z</published>
+    <arxiv:comment>9 pages, 1 graph, couple algorithms</arxiv:comment>
+    <arxiv:primary_category term="cs.SE"/>
+    <arxiv:journal_ref>EAI Endorsed Transactions on AI and Robotics 4(1) (2025)</arxiv:journal_ref>
+    <author>
+      <name>Ali Hassaan Mughal</name>
+    </author>
+    <arxiv:doi>10.4108/airo.8895</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.4108/airo.8895" title="doi"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2411.10064v1</id>
+    <title>Adaptive Physics-Guided Neural Network</title>
+    <updated>2024-11-15T09:28:55Z</updated>
+    <link href="https://arxiv.org/abs/2411.10064v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2411.10064v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>This paper introduces an adaptive physics-guided neural network (APGNN) framework for predicting quality attributes from image data by integrating physical laws into deep learning models. The APGNN adaptively balances data-driven and physics-informed predictions, enhancing model accuracy and robustness across different environments. Our approach is evaluated on both synthetic and real-world datasets, with comparisons to conventional data-driven models such as ResNet. For the synthetic data, 2D domains were generated using three distinct governing equations: the diffusion equation, the advection-diffusion equation, and the Poisson equation. Non-linear transformations were applied to these domains to emulate complex physical processes in image form.
+  In real-world experiments, the APGNN consistently demonstrated superior performance in the diverse thermal image dataset. On the cucumber dataset, characterized by low material diversity and controlled conditions, APGNN and PGNN showed similar performance, both outperforming the data-driven ResNet. However, in the more complex thermal dataset, particularly for outdoor materials with higher environmental variability, APGNN outperformed both PGNN and ResNet by dynamically adjusting its reliance on physics-based versus data-driven insights. This adaptability allowed APGNN to maintain robust performance across structured, low-variability settings and more heterogeneous scenarios. These findings underscore the potential of adaptive physics-guided learning to integrate physical constraints effectively, even in challenging real-world contexts with diverse environmental conditions.</summary>
+    <category term="stat.ME" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2024-11-15T09:28:55Z</published>
+    <arxiv:primary_category term="stat.ME"/>
+    <author>
+      <name>David Shulman</name>
+    </author>
+    <author>
+      <name>Itai Dattner</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2504.07244v1</id>
+    <title>Acceptance Test Generation with Large Language Models: An Industrial Case Study</title>
+    <updated>2025-04-09T19:33:38Z</updated>
+    <link href="https://arxiv.org/abs/2504.07244v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2504.07244v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Large language model (LLM)-powered assistants are increasingly used for generating program code and unit tests, but their application in acceptance testing remains underexplored. To help address this gap, this paper explores the use of LLMs for generating executable acceptance tests for web applications through a two-step process: (i) generating acceptance test scenarios in natural language (in Gherkin) from user stories, and (ii) converting these scenarios into executable test scripts (in Cypress), knowing the HTML code of the pages under test. This two-step approach supports acceptance test-driven development, enhances tester control, and improves test quality. The two steps were implemented in the AutoUAT and Test Flow tools, respectively, powered by GPT-4 Turbo, and integrated into a partner company's workflow and evaluated on real-world projects. The users found the acceptance test scenarios generated by AutoUAT helpful 95% of the time, even revealing previously overlooked cases. Regarding Test Flow, 92% of the acceptance test cases generated by Test Flow were considered helpful: 60% were usable as generated, 8% required minor fixes, and 24% needed to be regenerated with additional inputs; the remaining 8% were discarded due to major issues. These results suggest that LLMs can,in fact, help improve the acceptance test process with appropriate tooling and supervision.</summary>
+    <category term="cs.SE" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2025-04-09T19:33:38Z</published>
+    <arxiv:primary_category term="cs.SE"/>
+    <arxiv:journal_ref>2025 IEEE/ACM International Conference on Automation of Software Test (AST)</arxiv:journal_ref>
+    <author>
+      <name>Margarida Ferreira</name>
+    </author>
+    <author>
+      <name>Luis Viegas</name>
+    </author>
+    <author>
+      <name>Joao Pascoal Faria</name>
+    </author>
+    <author>
+      <name>Bruno Lima</name>
+    </author>
+    <arxiv:doi>10.1109/AST66626.2025.00007</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.1109/AST66626.2025.00007" title="doi"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2407.08359v2</id>
+    <title>Scenario-Based Field Testing of Drone Missions</title>
+    <updated>2025-01-28T21:49:44Z</updated>
+    <link href="https://arxiv.org/abs/2407.08359v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2407.08359v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Testing and validating Cyber-Physical Systems (CPSs) in the aerospace domain, such as field testing of drone rescue missions, poses challenges due to volatile mission environments, such as weather conditions. While testing processes and methodologies are well established, structured guidance and execution support for field tests are still weak. This paper identifies requirements for field testing of drone missions, and introduces the Field Testing Scenario Management (FiTS) approach for adaptive field testing guidance. FiTS aims to provide sufficient guidance for field testers as a foundation for efficient data collection to facilitate quality assurance and iterative improvement of field tests and CPSs. FiTS shall leverage concepts from scenario-based requirements engineering and Behavior-Driven Development to define structured and reusable test scenarios, with dedicated tasks and responsibilities for role-specific guidance. We evaluate FiTS by (i) applying it to three use cases for a search-and-rescue drone application to demonstrate feasibility and (ii) interviews with experienced drone developers to assess its usefulness and collect further requirements. The study results indicate FiTS to be feasible and useful to facilitate drone field testing and data analysis</summary>
+    <category term="cs.SE" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2024-07-11T10:12:13Z</published>
+    <arxiv:comment>Accepted for publication at the 50th Euromicro Conference on Software Engineering and Advanced Applications (SEAA)</arxiv:comment>
+    <arxiv:primary_category term="cs.SE"/>
+    <author>
+      <name>Michael Vierhauser</name>
+    </author>
+    <author>
+      <name>Kristof Meixner</name>
+    </author>
+    <author>
+      <name>Stefan Biffl</name>
+    </author>
+    <arxiv:doi>10.1109/SEAA64295.2024.00012</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.1109/SEAA64295.2024.00012" title="doi"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2510.14509v4</id>
+    <title>E2Edev: Benchmarking Large Language Models in End-to-End Software Development Task</title>
+    <updated>2026-04-16T14:05:42Z</updated>
+    <link href="https://arxiv.org/abs/2510.14509v4" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2510.14509v4" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The rapid advancement in large language models (LLMs) has demonstrated significant potential in End-to-End Software Development (E2ESD). However, existing E2ESD benchmarks are limited by coarse-grained requirement specifications and unreliable evaluation protocols, hindering a true understanding of current framework capabilities. To address these limitations, we present E2EDev, a novel benchmark grounded in the principles of Behavior-Driven Development (BDD), which evaluates the capabilities of E2ESD frameworks by assessing whether the generated software meets user needs through mimicking real user interactions (Figure 1). E2EDev comprises (i) a fine-grained set of user requirements, (ii) multiple BDD test scenarios with corresponding Python step implementations for each requirement, and (iii) a fully automated testing pipeline built on the Behave framework. To ensure its quality while reducing the annotation effort, E2EDev leverages our proposed Human-in-the-Loop Multi-Agent Annotation Framework (HITL-MAA). By evaluating various E2ESD frameworks and LLM backbones with E2EDev, our analysis reveals a persistent struggle to effectively solve these tasks, underscoring the critical need for more effective and cost-efficient E2ESD solutions. Our codebase and benchmark are publicly available at https://github.com/SCUNLP/E2EDev.</summary>
+    <category term="cs.SE" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.AI" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.CL" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2025-10-16T09:54:26Z</published>
+    <arxiv:comment>Accepted to ACL 2026 main</arxiv:comment>
+    <arxiv:primary_category term="cs.SE"/>
+    <author>
+      <name>Jingyao Liu</name>
+    </author>
+    <author>
+      <name>Chen Huang</name>
+    </author>
+    <author>
+      <name>Zhizhao Guan</name>
+    </author>
+    <author>
+      <name>Wenqiang Lei</name>
+    </author>
+    <author>
+      <name>Yang Deng</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2408.12120v1</id>
+    <title>Which Combination of Test Metrics Can Predict Success of a Software Project? A Case Study in a Year-Long Project Course</title>
+    <updated>2024-08-22T04:23:51Z</updated>
+    <link href="https://arxiv.org/abs/2408.12120v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2408.12120v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Testing plays an important role in securing the success of a software development project. Prior studies have demonstrated beneficial effects of applying acceptance testing within a Behavioural-Driven Development method. In this research, we investigate whether we can quantify the effects various types of testing have on functional suitability, i.e. the software conformance to users' functional expectations. We explore which combination of software testing (automated and manual, including acceptance testing) should be applied to ensure the expected functional requirements are met, as well as whether the lack of testing during a development iteration causes a significant increase of effort spent fixing the project later on. To answer those questions, we collected and analysed data from a year-long software engineering project course. We combined manual observations and statistical methods, namely Linear Mixed-Effects Modelling, to evaluate the effects of coverage metrics as well as time effort on passed stories over 5 Scrum sprints. The results suggest that a combination of a high code coverage for all of automated unit, acceptance, and manual testing has a significant impact on functional suitability. Similarly, but to a lower extent, front-end unit testing and manual testing can predict the success of a software delivery when taken independently. We observed a close-to-significant effect between low back-end testing and deferral (i.e. postponement) of user stories.</summary>
+    <category term="cs.SE" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2024-08-22T04:23:51Z</published>
+    <arxiv:primary_category term="cs.SE"/>
+    <author>
+      <name>Marina Filipovic</name>
+    </author>
+    <author>
+      <name>Fabian Gilson</name>
+    </author>
+  </entry>
+</feed>
