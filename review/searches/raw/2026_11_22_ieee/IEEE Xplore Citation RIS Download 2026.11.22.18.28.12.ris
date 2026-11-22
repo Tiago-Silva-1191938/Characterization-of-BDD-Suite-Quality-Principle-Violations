@@ -1,0 +1,2183 @@
+TY  - CONF
+TI  - Behavior Driven Development Approach in the Modern Quality Control Process
+T2  - 2020 IEEE International Conference on Problems of Infocommunications. Science and Technology (PIC S&T)
+SP  - 217
+EP  - 220
+AU  - O. Bezsmertnyi
+AU  - N. Golian
+AU  - V. Golian
+AU  - I. Afanasieva
+PY  - 2020
+KW  - Visualization
+KW  - Automation
+KW  - Process control
+KW  - Quality control
+KW  - Documentation
+KW  - Manuals
+KW  - Best practices
+KW  - behaviour driven development
+KW  - test driven development
+KW  - quality control
+KW  - gherkin
+KW  - practice
+KW  - technique
+KW  - scenario
+KW  - feature
+KW  - keyword
+KW  - step
+DO  - 10.1109/PICST51311.2020.9467891
+JO  - 2020 IEEE International Conference on Problems of Infocommunications. Science and Technology (PIC S&T)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2020 IEEE International Conference on Problems of Infocommunications. Science and Technology (PIC S&T)
+Y1  - 6-9 Oct. 2020
+AB  - Nowadays usually the Behavior Driven Development is the approach of choice for the quality control engineers, especially for the long-term projects with the big amount of the audits, because of its main advantage - clear test scenarios visualization and understanding for the not involved persons. However, this approach could not reach its maximum efficiency without proper usage, but the documentation covers only the high-level practices which are not always enough to write the good test scenarios. That is why it is needed to describe the best practices and techniques of the usage of behavior-driven development, formed with the experience of its use. These practices would help to create correct and well understandable behavior scenarios, with the ability to use them as part of the technical documentation. Behavior-driven development would be considered in the comparison with the test-driven development and the domain-driven design approaches - the other important strategies in the quality assurance process.
+ER  - 
+
+TY  - CONF
+TI  - Behavior-driven development (BDD) Cucumber Katalon for Automation GUI testing case CURA and Swag Labs
+T2  - 2020 International Conference on Informatics, Multimedia, Cyber and Information System (ICIMCIS)
+SP  - 87
+EP  - 92
+AU  - R. Broer Bahaweres
+AU  - E. Oktaviani
+AU  - L. Kesuma Wardhani
+AU  - I. Hermadi
+AU  - A. Suroso
+AU  - I. Permana Solihin
+AU  - Y. Arkeman
+PY  - 2020
+KW  - Software testing
+KW  - Automation
+KW  - Multimedia systems
+KW  - Natural languages
+KW  - Software
+KW  - Graphical user interfaces
+KW  - Testing
+KW  - Empirical Software Engineering
+KW  - Software Testing Automation
+KW  - GUI Testing
+KW  - Behavior-driven Development
+KW  - Cucumber
+DO  - 10.1109/ICIMCIS51567.2020.9354325
+JO  - 2020 International Conference on Informatics, Multimedia, Cyber and Information System (ICIMCIS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2020 International Conference on Informatics, Multimedia, Cyber and Information System (ICIMCIS)
+Y1  - 19-20 Nov. 2020
+AB  - Graphical user interface (GUI) is widely used in software applications. About 50% of the application code is for GUI implementation. Because labor costs are high and demands for high-quality software are increasing, automation GUI testing will be a good investment for any software company. We will apply the Behavior-driven development (BDD) method for automation GUI testing with the Cucumber framework on the CURA and Swag Labs web applications. The BDD methodology used is based on the NLP (natural language program) concept. Where the information of semi-automatically produce a step definition and code framework. The scenarios are given on the natural language and then applied to Software Testing. Class diagrams and sequence diagrams are also applied to each represent a code framework automatically. The author uses Katalon Studio software. It was found that the results of the test case automation GUI testing on the CURA website with 210 steps passed, 3 step warnings with average responses times in the test case were 1.92 minutes. The results of the test case automation GUI testing on the Swag Labs web with 87 where 36 steps failed, 4 step warning and 44 step passed with an average responses times in the test case are 2,122 minutes.
+ER  - 
+
+TY  - CONF
+TI  - The Behavior Driven Development Applied to the Software Quality Test:
+T2  - 2019 14th Iberian Conference on Information Systems and Technologies (CISTI)
+SP  - 1
+EP  - 4
+AU  - M. G. Cavalcante
+AU  - J. I. Sales
+PY  - 2019
+KW  - Testing
+KW  - Business
+KW  - Sports
+KW  - Software quality
+KW  - Tools
+KW  - Games
+KW  - Behavior Driven Development
+KW  - Software Quality Test
+KW  - Sports Financing
+DO  - 10.23919/CISTI.2019.8760965
+JO  - 2019 14th Iberian Conference on Information Systems and Technologies (CISTI)
+IS  - 
+SN  - 2166-0727
+VO  - 
+VL  - 
+JA  - 2019 14th Iberian Conference on Information Systems and Technologies (CISTI)
+Y1  - 19-22 June 2019
+AB  - The mechanisms of private investment in Brazilian sport are one of the main sources of resources that athletes hold to promote participation in high-performance competitions. In order to improve this flow, softwares are designed to shorten the path between donors and recipients. These tools, such as “Meu Campeãu” used in this paper, require efficient analysis of the quality of the product offered. Concepts known as agile methodologies have brought a new style to the analysis of the software developed, and one of them has gained considerable prominence, known such as BDD (Behavior Driven Development), so this paper aims to analyze the implementation of Behavior Driven Development in the software quality verification process “Meu Campeãu”.
+ER  - 
+
+TY  - CONF
+TI  - A Reusable Automated Acceptance Testing Architecture for Microservices in Behavior-Driven Development
+T2  - 2015 IEEE Symposium on Service-Oriented System Engineering
+SP  - 321
+EP  - 325
+AU  - M. Rahman
+AU  - J. Gao
+PY  - 2015
+KW  - Data structures
+KW  - Boolean functions
+KW  - Business
+KW  - Testing
+KW  - Software
+KW  - Maintenance engineering
+KW  - executable automated acceptance testing; Gherkin; functional testing; behavior-driven development; microservice
+DO  - 10.1109/SOSE.2015.55
+JO  - 2015 IEEE Symposium on Service-Oriented System Engineering
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2015 IEEE Symposium on Service-Oriented System Engineering
+Y1  - 30 March-3 April 2015
+AB  - Cloud Computing and Mobile Cloud Computing are reshaping the way applications are being developed and deployed due to their unique needs such as massive scalability, guaranteed fault tolerance, near zero downtime, etc. and also daunting challenges such as security, reliability, continuous deployment and update capability. Microservices architecture, where application is composed of a set of independently deployable services, is increasingly becoming popular due to its capability to address most of these needs and challenges. In recent years, the Behavior-Driven Development (BDD) has become one of the most popular agile software development processes, and frequently used in microservices development. The key to success of BDD is the executable acceptance tests that describe the expected behavior of a feature and its acceptance criteria in the form of scenarios using simple and business people readable syntax. The reusability, auditability, and maintainability become some of the major concerns when BDD test framework is applied for each microservice repository and no previous research addresses these concerns. In this paper, we present a reusable automated acceptance testing architecture to address all these concerns.
+ER  - 
+
+TY  - CONF
+TI  - Assessing The Effectiveness Of Test-Driven Development and Behavior-Driven Development in an Industry Setting
+T2  - 2019 International Conference on Computational Intelligence and Knowledge Economy (ICCIKE)
+SP  - 365
+EP  - 370
+AU  - A. S. Dookhun
+AU  - L. Nagowah
+PY  - 2019
+KW  - Software
+KW  - Productivity
+KW  - Measurement
+KW  - Industries
+KW  - Encoding
+KW  - Writing
+KW  - Computational intelligence
+KW  - Test-Driven Development
+KW  - Behavior-Driven Development
+KW  - TDD
+KW  - BDD
+KW  - productivity
+KW  - quality
+KW  - code coverage
+DO  - 10.1109/ICCIKE47802.2019.9004328
+JO  - 2019 International Conference on Computational Intelligence and Knowledge Economy (ICCIKE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2019 International Conference on Computational Intelligence and Knowledge Economy (ICCIKE)
+Y1  - 11-12 Dec. 2019
+AB  - Agile software development deviates from the traditional and plan-based approaches to software engineering as its iterative cycles embrace changes in software requirements. Test-Driven Development (TDD) and Behavior-Driven Development (BDD) are techniques that have been recently adopted by the software industry and have evolved from agile practices. These techniques aim at improving both the quality of the delivered software and the developers' productivity. They are several studies that have been conducted on TDD in both academic and industry settings with however only a few on BDD. While TDD and BDD have both become popular, many organizations and developers still do not understand the differences between these concepts or where they overlap. The aim of this paper is to assess the effectiveness of these two approaches in terms of external code quality, internal code quality and developers' productivity. To understand the weaknesses and strengths of each of these methods, a literature review was first performed. An experiment was then carried out in an industry setting to observe the effectiveness of TDD and BDD on a number of subjects. Our results showed that both techniques indeed increased the external quality of the delivered product. However, a decrease in productivity and internal quality were noted when BDD was used compared to TDD which might be due to the additional steps involved in BDD.
+ER  - 
+
+TY  - CONF
+TI  - Acceptance Tests over Microservices Architecture using Behaviour-Driven Development
+T2  - 2021 16th Iberian Conference on Information Systems and Technologies (CISTI)
+SP  - 1
+EP  - 6
+AU  - H. R. Lima
+AU  - K. C. Souza
+AU  - L. V. de Paula
+AU  - L. M. C. e Martins
+AU  - W. F. Giozza
+AU  - R. T. de Sousa
+PY  - 2021
+KW  - Couplings
+KW  - Automation
+KW  - Architecture
+KW  - Buildings
+KW  - Computer architecture
+KW  - Software quality
+KW  - Tools
+KW  - acceptance tests
+KW  - microservices
+KW  - Behaviour-Driven Development (BDD)
+DO  - 10.23919/CISTI52073.2021.9476643
+JO  - 2021 16th Iberian Conference on Information Systems and Technologies (CISTI)
+IS  - 
+SN  - 2166-0727
+VO  - 
+VL  - 
+JA  - 2021 16th Iberian Conference on Information Systems and Technologies (CISTI)
+Y1  - 23-26 June 2021
+AB  - The application of software quality assurance practices upon microservices architectures can be somehow challenging, mainly caused by the high granularity with low coupling of its software components. Since this granularity is not visible to the end user, it is difficult to assess the whole system behaviour. This paper proposes the use of Behaviour-Driven Development (BDD) technique on software development based on microservices architecture, by building test scenarios written by non-technical users and developing automated tests on API REST services layer, enabling the ability to match system results to end-user needs. Using a real scenario of a pay roll system, the applicability of the Behave BDD tool was assessed for acceptance tests automation.
+ER  - 
+
+TY  - CONF
+TI  - Detecting duplicate examples in behaviour driven development specifications
+T2  - 2018 IEEE Workshop on Validation, Analysis and Evolution of Software Tests (VST)
+SP  - 6
+EP  - 10
+AU  - L. P. Binamungu
+AU  - S. M. Embury
+AU  - N. Konstantinou
+PY  - 2018
+KW  - Tools
+KW  - Production
+KW  - Software
+KW  - Syntactics
+KW  - Semantics
+KW  - Cloning
+KW  - DSL
+KW  - behaviour-driven development
+KW  - duplication detection
+KW  - dynamic tracing
+DO  - 10.1109/VST.2018.8327149
+JO  - 2018 IEEE Workshop on Validation, Analysis and Evolution of Software Tests (VST)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2018 IEEE Workshop on Validation, Analysis and Evolution of Software Tests (VST)
+Y1  - 20-20 March 2018
+AB  - In Behaviour-Driven Development (BDD), the behaviour of the software to be built is specified as a set of example interactions with the system, expressed using a “Given-When-Then” structure. The examples are written using customer language, and are readable by end-users. They are also executable, and act as tests that determine whether the implementation matches the desired behaviour or not. This approach can be effective in building a common understanding of the requirements, but it can also face problems. When the suites of examples grow large, they can be difficult and expensive to change. Duplication can creep in, and can be challenging to detect manually. Current tools for detecting duplication in code are also not effective for BDD examples. Moreover, human concerns of readability and clarity can rise. We present an approach for detecting duplication in BDD suites that is based around dynamic tracing, and describe an evaluation based on three open source systems.
+ER  - 
+
+TY  - CONF
+TI  - The effect of Test-Driven Development and Behavior-Driven Development on Project Success Factors: A Systematic Literature Review Based Study
+T2  - 2020 International Conference on Computer, Control, Electrical, and Electronics Engineering (ICCCEEE)
+SP  - 1
+EP  - 9
+AU  - H. M. Abushama
+AU  - H. A. Alassam
+AU  - F. A. Elhaj
+PY  - 2021
+KW  - Digital control
+KW  - Systematics
+KW  - Bibliographies
+KW  - Customer satisfaction
+KW  - Software
+KW  - Testing
+KW  - Test Driven Development
+KW  - Behavior Driven Development
+KW  - Test Last Development
+KW  - Systematic Literature Review
+KW  - Agile Testing
+KW  - Projects Success Factors
+DO  - 10.1109/ICCCEEE49695.2021.9429593
+JO  - 2020 International Conference on Computer, Control, Electrical, and Electronics Engineering (ICCCEEE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2020 International Conference on Computer, Control, Electrical, and Electronics Engineering (ICCCEEE)
+Y1  - 26 Feb.-1 March 2021
+AB  - Agile testing approaches test-driven development (TDD), behavior-driven development (BDD); have gained popularity since the introduction of agile practices. The concept of using these approaches in software projects is to help projects succeed. The effect of TDD and BDD on Project success factors namely, cost, time, and customer satisfaction/external quality, remains an area of investigation. Therefore, this study investigates the results of previously published articles on the effect of TDD and BDD on project success factors. A systematic literature review has been conducted considering articles published between 1999 up to 2020. Thirty-one studies were selected and analyzed. 74.1% of studies are experiments, 25.8% are case studies. 67.7% of these studies were performed in an industrial setting, 29.0% were performed in an academic setting and only one study with 3.22% was mixed academic and industrial settings. The result shows that the TDD and the BDD consume more time and cost compared to traditional testing (TLD). Moreover, the TDD as TLD may not necessarily satisfy the customer unlike the BDD appears that achieve customer satisfaction. Although, when TDD compared to BDD, TDD consumed more time and lower customer acceptance than the BDD.
+ER  - 
+
+TY  - CONF
+TI  - Maintaining behaviour driven development specifications: Challenges and opportunities
+T2  - 2018 IEEE 25th International Conference on Software Analysis, Evolution and Reengineering (SANER)
+SP  - 175
+EP  - 184
+AU  - L. P. Binamungu
+AU  - S. M. Embury
+AU  - N. Konstantinou
+PY  - 2018
+KW  - Organizations
+KW  - Tools
+KW  - Maintenance engineering
+KW  - Software
+KW  - Standards organizations
+KW  - Industries
+KW  - Electronic mail
+KW  - behaviour-driven development
+KW  - test suite maintenance
+KW  - test suite evolution
+DO  - 10.1109/SANER.2018.8330207
+JO  - 2018 IEEE 25th International Conference on Software Analysis, Evolution and Reengineering (SANER)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2018 IEEE 25th International Conference on Software Analysis, Evolution and Reengineering (SANER)
+Y1  - 20-23 March 2018
+AB  - In Behaviour-Driven Development (BDD) the behaviour of a software system is specified as a set of example interactions with the system using a "Given-When-Then" structure. These examples are expressed in high level domain-specific terms, and are executable. They thus act both as a specification of requirements and as tests that can verify whether the current system implementation provides the desired behaviour or not. This approach has many advantages but also presents some problems. When the number of examples grows, BDD specifications can become costly to maintain and extend. Some teams find that parts of the system are effectively frozen due to the challenges of finding and modifying the examples associated with them. We surveyed 75 BDD practitioners from 26 countries to understand the extent of BDD use, its benefits and challenges, and specifically the challenges of maintaining BDD specifications in practice. We found that BDD is in active use amongst respondents, and that the use of domain specific terms, improving communication among stakeholders, the executable nature of BDD specifications, and facilitating comprehension of code intentions are the main benefits of BDD. The results also showed that BDD specifications suffer the same maintenance challenges found in automated test suites more generally. We map the survey results to the literature, and propose 10 research opportunities in this area.
+ER  - 
+
+TY  - CONF
+TI  - A Quality-Guarded Behavior-Driven Development Framework for Intelligent Automated Test Case Generation
+T2  - 2026 4th International Conference on Intelligent Cyber Physical Systems and Internet of Things (ICoICI)
+SP  - 2068
+EP  - 2077
+AU  - H. A
+AU  - S. P. Chokkalingam
+PY  - 2026
+KW  - Testing
+KW  - Modeling
+KW  - Accuracy
+KW  - Support vector machines
+KW  - Maintenance
+KW  - Timing
+KW  - Software
+KW  - Printing
+KW  - Arrays
+KW  - Anomaly detection
+KW  - Automated Test Case Generation
+KW  - Behavior-Driven Development
+KW  - DistilBERT
+KW  - Attention Mechanism
+KW  - Support Vector Machine
+KW  - Anomaly Detection
+DO  - 10.1109/ICoICI69824.2026.11723402
+JO  - 2026 4th International Conference on Intelligent Cyber Physical Systems and Internet of Things (ICoICI)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2026 4th International Conference on Intelligent Cyber Physical Systems and Internet of Things (ICoICI)
+Y1  - 1-3 Sept. 2026
+AB  - Modern software requires efficient and reliable automated test case generation, whereas manual testing often suffers from being time-consuming and inconsistent. This paper proposes a Quality-Guarded-Behavior Driven Development for automated test case generation. The proposed model integrates an Attention-DistilBERT-Support Vector Machine, where DistilBERT is utilized to capture contextual embeddings, a word vector attention mechanism emphasizes important tokens, and the Support Vector Machine provides robust requirement classification. This integration of testability-aware pipeline detects contextual anomalies during training and employs a runtime self-healing Behavior Driven Development mechanism using fuzzy matching. The anomaly-aware learning mechanism reduces the influence of unclear or ambiguous requirements. The experimental results show that the proposed model achieved a high accuracy of 98.7%, improving the quality of downstream Behavior Driven Development based test case generation. As a result, the framework enhances understanding of requirements, reduces ambiguity, and produces high-quality test cases.
+ER  - 
+
+TY  - CONF
+TI  - Assessing the Quality of Behavior-Driven Development Scenarios Using BERT
+T2  - 2025 IEEE 4th International Conference on Computing and Machine Intelligence (ICMI)
+SP  - 1
+EP  - 5
+AU  - N. Alinezhadtilaki
+AU  - C. Evans
+PY  - 2025
+KW  - Adaptation models
+KW  - Transfer learning
+KW  - Agile software development
+KW  - Training data
+KW  - Bidirectional control
+KW  - Manuals
+KW  - Predictive models
+KW  - Transformers
+KW  - Natural language processing
+KW  - Encoding
+KW  - Natural Language Processing
+KW  - Behavior Driven Development
+KW  - Machine Learning
+KW  - Agile
+KW  - Software Quality
+KW  - AI Solutions
+DO  - 10.1109/ICMI65310.2025.11141197
+JO  - 2025 IEEE 4th International Conference on Computing and Machine Intelligence (ICMI)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 IEEE 4th International Conference on Computing and Machine Intelligence (ICMI)
+Y1  - 5-6 April 2025
+AB  - This research investigates the application of BERT (Bidirectional Encoder Representations from Transformers), a state-of-the-art Machine Learning (ML) model for Natural Language Processing (NLP), to improve the quality assessment of Behavior-Driven Development (BDD) scenarios. BDD is a widely used technique in Agile software development, which clarifies feature behavior by defining test scenarios for user stories. While user stories are effective for outlining software requirements, they often lack detailed validation criteria, and the manual evaluation of BDD scenarios can be time-consuming and subjective, leading to inconsistencies, rework, and project delays. To address these challenges, this study explores how BERT can enhance scenario evaluation by leveraging its advanced language understanding capabilities to detect ambiguities and inconsistencies more accurately than traditional methods. Precision, which measures the accuracy of the model's correct predictions, was 70.1 %, indicating how often the model's identified defects were truly defects. Recall, the measure of how many relevant defects the model successfully identified, reached 80.5 %. The F1 score, a balance between precision and recall, was 75.3 %, demonstrating BERT's effectiveness in handling imbalanced data. These results suggest that BERT significantly improves both the objectivity and efficiency of BDD scenario evaluation, offering a valuable tool for enhancing software development processes. This research contributes to the integration of NLP in Agile software development, providing a foundation for future exploration of AI-driven solutions for improving software quality and requirement documentation.
+ER  - 
+
+TY  - CONF
+TI  - Behave Nicely! Automatic Generation of Code for Behaviour Driven Development Test Suites
+T2  - 2019 19th International Working Conference on Source Code Analysis and Manipulation (SCAM)
+SP  - 228
+EP  - 237
+AU  - T. Storer
+AU  - R. Bob
+PY  - 2019
+KW  - Natural languages
+KW  - Maintenance engineering
+KW  - Tools
+KW  - Software
+KW  - Testing
+KW  - Industries
+KW  - Computer languages
+KW  - Behaviour driven development
+KW  - code generation
+DO  - 10.1109/SCAM.2019.00033
+JO  - 2019 19th International Working Conference on Source Code Analysis and Manipulation (SCAM)
+IS  - 
+SN  - 2470-6892
+VO  - 
+VL  - 
+JA  - 2019 19th International Working Conference on Source Code Analysis and Manipulation (SCAM)
+Y1  - 30 Sept.-1 Oct. 2019
+AB  - Behaviour driven development (BDD) has gained widespread use in the software industry. System specifications can be expressed as test scenarios, describing the circumstances, actions and expected outcomes. These scenarios are written in a structured natural language (Gherkin), with each step in the scenario associated with a corresponding step implementation function in the underlying programming language. A challenge recognised by industry is ensuring that the natural language scenarios, step implementation functions and underlying system implementation remain consistent with one another, requiring on-going maintenance effort as changes are made to a system. To address this, we have developed behave_nicely, a tool, for automatically generating step implementation functions from structured natural language steps, with the intention of eliminating the need for maintaining step implementation functions. We evaluated our approach on a sample of 20 white box and 50 black box projects using behaviour driven development, drawn from GitHub. Our results show that behave_nicely can generate step implementation functions for 80% of the white box and 17% of black box projects. We conclude that (a) there is significant potential for automating the process of code generation for BDD tests and (b) that the development of guidelines for writing tests in Gherkin would significantly improve the results.
+ER  - 
+
+TY  - CONF
+TI  - Applications of Cucumber on Automated Functional Simulation Testing
+T2  - 2021 IEEE 21st International Conference on Software Quality, Reliability and Security Companion (QRS-C)
+SP  - 861
+EP  - 862
+AU  - Y. Wang
+AU  - L. Jia
+AU  - H. Cao
+AU  - Z. Jing
+AU  - H. Huang
+PY  - 2021
+KW  - Codes
+KW  - Conferences
+KW  - Natural languages
+KW  - Software quality
+KW  - Maintenance engineering
+KW  - Reliability engineering
+KW  - Software reliability
+KW  - Automatic function simulation test
+KW  - Cucumber testing framework
+KW  - Test scenario design
+DO  - 10.1109/QRS-C55045.2021.00129
+JO  - 2021 IEEE 21st International Conference on Software Quality, Reliability and Security Companion (QRS-C)
+IS  - 
+SN  - 2693-9371
+VO  - 
+VL  - 
+JA  - 2021 IEEE 21st International Conference on Software Quality, Reliability and Security Companion (QRS-C)
+Y1  - 6-10 Dec. 2021
+AB  - Cucumber is a BDD (behavior driven development) testing framework based on natural language. It maps code technology to business, enabling testers to describe test scripts in natural language without knowing the underlying driver code. Cucumber then flexibly forms simple and understandable test scenarios to realize the reading and maintenance of test cases. We apply Cucumber testing framework to SQATest-AT, an automated simulation testing tool, and improve the main-tainability, reusability and designability of SQATest-AT, which greatly improve the efficiency of product upgrade testing, and ensure the quality of product upgrade testing.
+ER  - 
+
+TY  - JOUR
+TI  - Behavior Driven Development: A Systematic Literature Review
+T2  - IEEE Access
+SP  - 88008
+EP  - 88024
+AU  - M. S. Farooq
+AU  - U. Omer
+AU  - A. Ramzan
+AU  - M. A. Rasheed
+AU  - Z. Atal
+PY  - 2023
+KW  - Behavioral sciences
+KW  - Stakeholders
+KW  - Taxonomy
+KW  - Systematics
+KW  - Codes
+KW  - Organizations
+KW  - Software testing
+KW  - Agile manufacturing
+KW  - Ubiquitous computing
+KW  - Automatic testing
+KW  - Behavior-driven development
+KW  - software testing
+KW  - agile methodology
+KW  - ubiquitous language
+KW  - automation testing
+KW  - test driven development
+DO  - 10.1109/ACCESS.2023.3302356
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 11
+VL  - 11
+JA  - IEEE Access
+Y1  - 2023
+AB  - Behavior Driven Development (BDD) is a widely adopted agile methodology for software development that emphasizes the behavior of an application as a series of test cases, using the keywords, which include “Given,” “When,” and “Then.” It involves writing requirements in a structured and testable format that can be evaluated to ensure compliance with the expected behavior. Although a significant amount of research has been conducted to examine the impact of using BDD on software development process yet rare work is observed to synthesize these studies and identify areas for future exploration. This study presents a review of the state-of-the-art BDD by synthesizing the recent advancements in its uses and applications. It aims to systematically investigate the impact of BDD on software development process as well as on product quality by aiding to bridge the communication gap between the stakeholders. The results reveal that BDD is an effective technique to clarify requirements during the software development process as it helps minimizing the intrinsic ambiguities. This work proposes a taxonomy based on the role and applications of BDD in various contexts. It suggests a framework for applying BDD in software development and defines a workflow for its application in software development. Finally, this work highlights some pertinent future directions for the use of BDD in software development.
+ER  - 
+
+TY  - CONF
+TI  - A Behavior-Driven Development and Reinforcement Learning Approach for Videogame Automated Testing
+T2  - 2024 IEEE/ACM 8th International Workshop on Games and Software Engineering (GAS)
+SP  - 1
+EP  - 8
+AU  - V. Mastain
+AU  - F. Petrillo
+PY  - 2024
+KW  - Training
+KW  - Video games
+KW  - Quality assurance
+KW  - Conferences
+KW  - Games
+KW  - Reinforcement learning
+KW  - Manuals
+KW  - Videogame
+KW  - testing
+KW  - reinforcement learning
+KW  - Behavior-driven development
+KW  - Software Quality
+KW  - Software Engineering
+DO  - 10.1145/3643658.3643919
+JO  - 2024 IEEE/ACM 8th International Workshop on Games and Software Engineering (GAS)
+IS  - 
+SN  - 2996-5187
+VO  - 
+VL  - 
+JA  - 2024 IEEE/ACM 8th International Workshop on Games and Software Engineering (GAS)
+Y1  - 14-14 April 2024
+AB  - Video game development has undergone a significant transformation in the last decade, with modern games becoming increasingly complex and sophisticated. Testing these games for quality assurance is challenging and time-consuming, often relying on manual testers. In this paper, we introduce an automated testing approach that combines Behavior-Driven Development (BDD) with Reinforcement Learning (RL) to streamline the testing process. We present a framework that uses natural language-based test cases to describe game behaviors and expected outcomes, combined with RL, to test games automatically. We validated our approach through tests on four distinct Python-based games. We analyzed the impact of game complexity on training duration and discussed the challenges of defining optimal reward functions. Our framework provides a structured approach to address RL complexities, simplifying the process of creating test scenarios. Combining BDD and RL offers a promising solution to test complex modern video games more efficiently and ensure higher game quality upon release.
+ER  - 
+
+TY  - CONF
+TI  - Advanced Test Report Analyzer
+T2  - 2026 IEEE 9th International Conference on Computer and Communication Engineering Technology (CCET)
+SP  - 130
+EP  - 134
+AU  - A. Chatterjee
+PY  - 2026
+KW  - Testing
+KW  - Radio access networks
+KW  - Regional area networks
+KW  - Timing
+KW  - Manuals
+KW  - Signal detection
+KW  - Pipelines
+KW  - Visualization
+KW  - Cloning
+KW  - Printing
+KW  - Flaky tests
+KW  - Behaviour-Driven Development (BDD)
+KW  - Cucumber
+KW  - Flaky test detection
+KW  - Test analytics
+KW  - Automated test classification
+KW  - Software quality engineering
+DO  - 10.1109/CCET71000.2026.11747969
+JO  - 2026 IEEE 9th International Conference on Computer and Communication Engineering Technology (CCET)
+IS  - 
+SN  - 2836-5992
+VO  - 
+VL  - 
+JA  - 2026 IEEE 9th International Conference on Computer and Communication Engineering Technology (CCET)
+Y1  - 14-16 Aug. 2026
+AB  - Flaky tests are tests that pass or fail non-deterministically. They may succeed in one run and fail in another without any change in the code. Such behavior reduces developer confidence in the test suite. It also increases CI/CD pipeline time because engineers often rerun builds to confirm failures. In addition, flaky tests make it difficult to detect real regressions. This paper presents ATRA (Advanced Test Report Analyzer), a framework designed to analyze and visualize historical Cucumber BDD test results. The framework automatically collects test results from multiple historical runs stored in a Git repository. It then processes and classifies each test scenario based on its behavior across runs. ATRA categorizes scenarios into four classes: Consistently Failing, Flaky, New Failure, and Consistently Passing. This classification helps Quality Engineers (QEs) quickly understand the health of the test suite. The framework provides an interactive interface where QEs can select a time window of historical runs for analysis. ATRA then generates comparative reports that include trend line graphs and status distribution pie charts. These visualizations help engineers identify unstable tests and observe failure trends over time. In addition, ATRA allows QEs to record investigation notes directly within the framework. These notes are automatically committed back to the Git repository, creating a traceable history of test analysis and debugging activities.
+ER  - 
+
+TY  - CONF
+TI  - SelfBehave, Generating a Synthetic Behaviour-Driven Development Dataset using SELF-INSTRUCT
+T2  - 2025 IEEE International Conference on Software Testing, Verification and Validation Workshops (ICSTW)
+SP  - 78
+EP  - 84
+AU  - M. Galloy
+AU  - M. Balfroid
+AU  - B. Vanderose
+AU  - X. Devroey
+PY  - 2025
+KW  - Training
+KW  - Software testing
+KW  - Large language models
+KW  - Refining
+KW  - Syntactics
+KW  - Data models
+KW  - Test pattern generators
+KW  - Security
+KW  - Logic
+KW  - Synthetic data
+KW  - Large Language Models (LLMs)
+KW  - behaviour-driven development (BDD)
+KW  - self-instruct
+DO  - 10.1109/ICSTW64639.2025.10962479
+JO  - 2025 IEEE International Conference on Software Testing, Verification and Validation Workshops (ICSTW)
+IS  - 
+SN  - 2159-4848
+VO  - 
+VL  - 
+JA  - 2025 IEEE International Conference on Software Testing, Verification and Validation Workshops (ICSTW)
+Y1  - 31 March-4 April 2025
+AB  - While state-of-the-art large language models (LLMs) show great potential for automating various Behavioral-Driven Development (BDD) related tasks, such as test generation, smaller models depend on high-quality data, which are challenging to find in sufficient quantity. To address this challenge, we adapt the SELF-INSTRUCT method to generate a large synthetic dataset from a small set of human-written high-quality scenarios. We evaluate the impact of the initial seeded scenarios’ quality on the generated scenarios by generating two synthetic datasets: one from 175 high-quality seeds and one from 175 seeds that did not meet all quality criteria. We performed a qualitative analysis using state-of-the-art quality criteria and found that the quality of seeds does not significantly influence the generation of complete and essential scenarios. However, it impacts the scenarios’ capability to focus on a single action and outcome and their compliance with Gherkin syntactic rules. During our evaluation, we also found that while raters agreed on whether a scenario was of high quality or not, they often disagreed on individual criteria, indicating a need for quality criteria easier to apply in practice.
+ER  - 
+
+TY  - CONF
+TI  - Impacts of behavioral driven development in the improvement of quality software deliverables
+T2  - 2018 3rd International Conference on Inventive Computation Technologies (ICICT)
+SP  - 228
+EP  - 230
+AU  - A. Sheshasaayee
+AU  - P. Banumathi
+PY  - 2018
+KW  - Testing
+KW  - Automation
+KW  - Business
+KW  - Software
+KW  - Software algorithms
+KW  - Data mining
+KW  - Conferences
+KW  - BDD - Behavior Driven Development
+KW  - TDD – Test Driven Development
+KW  - QA – Quality Assurance
+KW  - BD – Behavior Driven
+DO  - 10.1109/ICICT43934.2018.9034287
+JO  - 2018 3rd International Conference on Inventive Computation Technologies (ICICT)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2018 3rd International Conference on Inventive Computation Technologies (ICICT)
+Y1  - 15-16 Nov. 2018
+AB  - Sometimes, the software deliverables do not exactly match with the requirements. This mismatch requirement can be captured during the testing. Even then if it is missing it is because of non-coverage of the testing and test cases. This could be resolved by creating the unit test cases / Integration test cases from the requirements. This paper focuses on BDD requirements which generates the test cases as well as report executed. With aid of automation testing, the test cases of BDD can be explained. This paper deals with such test cases, the next version binaries to get the proper deliverables.
+ER  - 
+
+TY  - CONF
+TI  - On the Empirical Evaluation of BDD Scenarios Quality: Preliminary Findings of an Empirical Study
+T2  - 2017 IEEE 25th International Requirements Engineering Conference Workshops (REW)
+SP  - 299
+EP  - 302
+AU  - G. Oliveira
+AU  - S. Marczak
+PY  - 2017
+KW  - Documentation
+KW  - Stakeholders
+KW  - Terminology
+KW  - Software
+KW  - documentation quality
+KW  - documentation evaluation
+KW  - behavior-driven development
+KW  - empirical study
+DO  - 10.1109/REW.2017.62
+JO  - 2017 IEEE 25th International Requirements Engineering Conference Workshops (REW)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2017 IEEE 25th International Requirements Engineering Conference Workshops (REW)
+Y1  - 4-8 Sept. 2017
+AB  - Behavior-Driven Development (BDD) is a set of software engineering practices which uses a ubiquitous language, one that business and technical people can understand, to describe and model a system by a series of textual scenarios. However, we believe that the value of those textual scenarios is connected with how well they convey and document the details discussed by the team about the behaviors needed to fulfill customer needs. Thus, there is the need to define what would be a "good" BDD scenario and how to evaluate scenarios. On this research design paper, we describe a study designed to understand how known quality attributes from other types of requirements specifications (like use cases or user stories) can be used with BDD scenarios. We also report our preliminary findings after performing it with novice evaluators. Those findings indicate that some of those attributes can be used to support BDD scenarios assessments.
+ER  - 
+
+TY  - CONF
+TI  - An Exploratory Study on the Usage of Gherkin Features in Open-Source Projects
+T2  - 2022 IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER)
+SP  - 1159
+EP  - 1166
+AU  - A. Chandorkar
+AU  - N. Patkar
+AU  - A. Di Sorbo
+AU  - O. Nierstrasz
+PY  - 2022
+KW  - Measurement
+KW  - Codes
+KW  - Conferences
+KW  - Sociology
+KW  - Syntactics
+KW  - Feature extraction
+KW  - Behavioral sciences
+KW  - BDD
+KW  - behavior-driven development
+KW  - collaborative testing
+KW  - behavior verification
+DO  - 10.1109/SANER53432.2022.00134
+JO  - 2022 IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER)
+IS  - 
+SN  - 1534-5351
+VO  - 
+VL  - 
+JA  - 2022 IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER)
+Y1  - 15-18 March 2022
+AB  - With behavior-driven development (BDD), domain experts describe system behavior and desired outcomes through natural language-like sentences, e.g., using the Gherkin language. BDD frameworks partially convert the content of Gherkin specifications into executable test code. Previous studies have reported several issues with the current BDD practice, for example long repetitive Gherkin specifications and slow-running test suites. Data tables and additional features were added to the Gherkin syntax to express compactly test inputs (e.g., provide different combinations of input values and desired outputs to run tests multiple times) and also to improve the readability of Gherkin files (henceforth called spec files). However, there is no empirical evidence about the actual usage of these Gherkin features. To fill this gap, we analyzed the content of 1,572 spec files extracted from 23 open-source projects. For each spec file, we collected a set of metrics modeling the structure and the usage of the different Gherkin features. We found that only a minority of the considered spec files (i.e., 590) used data tables that contain two rows, on average. We also used statistical tests to compare the contents of spec files with and without data tables and found significant differences between the two populations, especially for what concerns the number of lines of code (LoC). On the one hand, our results shed some light on the discrepancies between the recommendations for defining Gherkin specifications and their actual adoption in practice. On the other hand, our findings demonstrate that the adoption of additional features, such as data tables, might only partially help to reduce the length of Gherkin specifications.
+ER  - 
+
+TY  - CONF
+TI  - A Requirement-based Regression Test Selection Technique in Behavior-Driven Development
+T2  - 2021 IEEE 45th Annual Computers, Software, and Applications Conference (COMPSAC)
+SP  - 1303
+EP  - 1308
+AU  - J. Xu
+AU  - Q. Du
+AU  - X. Li
+PY  - 2021
+KW  - Software maintenance
+KW  - Codes
+KW  - Computational modeling
+KW  - Conferences
+KW  - Semantics
+KW  - Computer bugs
+KW  - Software quality
+KW  - regression test selection
+KW  - behavior-driven development
+KW  - requirement-based technique
+KW  - vector space model
+DO  - 10.1109/COMPSAC51774.2021.00182
+JO  - 2021 IEEE 45th Annual Computers, Software, and Applications Conference (COMPSAC)
+IS  - 
+SN  - 0730-3157
+VO  - 
+VL  - 
+JA  - 2021 IEEE 45th Annual Computers, Software, and Applications Conference (COMPSAC)
+Y1  - 12-16 July 2021
+AB  - Regression testing is an essential software maintenance activity before the release of a new version implementing a bug fix or a new feature. A regression test selection (RTS) technique chooses a subset of existing test cases to ensure that the system will not be adversely affected by the latest modifications. With the rise of DevOps, behavior-driven development (BDD) is growing in popularity as it is in close alignment with agile practices, for example, continuous integration. Hence, it is necessary to propose a novel and effective RTS technique for BDD specifically to accelerate the development process while ensuring software quality. Since most existing techniques for RTS are code-based and thus subject to some limitations, we present a requirement-based technique which uses the requirements in BDD to select test cases in both high-level (acceptance testing) and low-level (unit testing). Our technique firstly illustrates the new requirement with a scenario, and subsequently computes the semantic similarity of the new scenario and all existing scenarios with the vector space model. According to the results, the modification-traversing regression test cases can be selected in a semi-automated way. We also conduct an experimental study to evaluate our technique in terms of inclusiveness, precision, efficiency and generality. The study shows that our technique is applicable for BDD and effective in practice.
+ER  - 
+
+TY  - CONF
+TI  - Benefits and Challenges of the Behavior-Driven Development: A Systematic Literature Review
+T2  - 2023 11th International Conference in Software Engineering Research and Innovation (CONISOFT)
+SP  - 45
+EP  - 54
+AU  - V. M. Arredondo-Reyes
+AU  - S. Domínguez-Isidro
+AU  - Á. J. Sánchez-García
+AU  - J. O. Ocharán-Hernández
+PY  - 2023
+KW  - Vocabulary
+KW  - Technological innovation
+KW  - Systematics
+KW  - Reviews
+KW  - Collaboration
+KW  - Software
+KW  - Stakeholders
+KW  - Behavior-driven development
+KW  - Agile development
+KW  - Systematic literature review
+KW  - Narrative synthesis
+DO  - 10.1109/CONISOFT58849.2023.00016
+JO  - 2023 11th International Conference in Software Engineering Research and Innovation (CONISOFT)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2023 11th International Conference in Software Engineering Research and Innovation (CONISOFT)
+Y1  - 6-10 Nov. 2023
+AB  - Behavior-Driven Development (BDD) emphasizes collaboration and communication between developers, testers, and stakeholders. However, identifying the types of software projects and the characteristics in which BDD has been adopted could clarify the advantages and difficulties inherent in the process. This review aims to provide a comprehensive analysis of the state-of-the-art research in BDD, classify the benefits and challenges, and propose future directions for research. The review followed a well-known methodology in the software engineering field. The selected studies were analyzed based on research questions and key findings. The results evince that BDD has been used in large-scale software development, environments requiring natural language implementation, and projects with agile development teams. According to the re-viewed studies, BDD benefits improving communication among stakeholders, better tracking of requirements, and the reuse of artifacts. On the other hand, relevant challenges in BDD include the cost and time required for implementation, the maintenance of BDD specifications, and the need for a common language among stakeholders. In addition, the analysis provides the best practices for adapting to BDD and improving its effectiveness, such as developing feature files, using language effectively, and using tools for BDD. Finally, BDD's limitations include the difficulty of writing effective scenarios, the need for a cultural transition in the development team, and the lack of standardization and guidelines for BDD implementation.
+ER  - 
+
+TY  - JOUR
+TI  - Test-Driven Development of Relational Databases
+T2  - IEEE Software
+SP  - 37
+EP  - 43
+AU  - S. W. Ambler
+PY  - 2007
+KW  - Relational databases
+KW  - Spatial databases
+KW  - Visual databases
+KW  - Software testing
+KW  - Information retrieval
+KW  - Dynamic programming
+KW  - System testing
+KW  - Transaction databases
+KW  - Cultural differences
+KW  - Programming profession
+KW  - test-driven development
+KW  - TDD
+KW  - database refactoring
+KW  - database testing
+KW  - test-driven database design
+KW  - TDD
+KW  - relational database
+KW  - behavior-driven development
+KW  - BDD
+DO  - 10.1109/MS.2007.91
+JO  - IEEE Software
+IS  - 3
+SN  - 1937-4194
+VO  - 24
+VL  - 24
+JA  - IEEE Software
+Y1  - May-June 2007
+AB  - In test-first development, developers formulate and implement a detailed design iteratively, one test at a time. Test-driven development (also called test-driven design) combines TFD with refactoring, wherein developers make small changes (refactorings) to improve code design without changing the code's semantics. When developers decide to use TDD to implement a new feature, they must first ask whether the current design is the easiest possible design to enable the feature's addition. Implementing test-driven database design involves database refactoring, regression testing, and continuous integration. TDDD is an integrated part of the overall development process, not a standalone activity that data professionals perform in parallel with application TDD. Although from a technical view point, TDDD is relatively straightforward, we must overcome several challenges to its whole sale adoption throughout the IT community
+ER  - 
+
+TY  - CONF
+TI  - Three-dimensional Reconstruction and Picking Point Localization Method of Cucumber Fruit Based on Point Cloud Completion
+T2  - 2025 6th International Conference on Control, Robotics and Intelligent System (CCRIS)
+SP  - 1
+EP  - 5
+AU  - Z. Gao
+AU  - J. Wang
+AU  - H. Min
+PY  - 2025
+KW  - Point cloud compression
+KW  - Location awareness
+KW  - Earth
+KW  - Accuracy
+KW  - Three-dimensional displays
+KW  - Robot kinematics
+KW  - Greenhouses
+KW  - Interference
+KW  - Feature extraction
+KW  - Generators
+KW  - cucumber harvesting
+KW  - point cloud completion
+KW  - dual attention mechanism
+KW  - multi-scale feature fusion
+KW  - joint loss function
+DO  - 10.1109/CCRIS65764.2025.11193128
+JO  - 2025 6th International Conference on Control, Robotics and Intelligent System (CCRIS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 6th International Conference on Control, Robotics and Intelligent System (CCRIS)
+Y1  - 22-24 Aug. 2025
+AB  - In practical cucumber harvesting scenarios, the presence of direct sunlight and occlusion in greenhouses poses significant challenges for depth cameras to provide sufficient three-dimensional environmental information for harvesting robots. To address this issue, this study innovatively applies point cloud completion techniques to picking point localization, proposing a novel method for cucumber picking point localization based on a point cloud completion network. This method aligns the completed point cloud with the two-dimensional coordinates of picking points identified in RGB images, enabling precise acquisition of the 3D coordinates and pose information of the picking points. A new point cloud completion network is introduced, incorporating a Dual Attention-based Feature Extraction Module (DA-FEM) that weights and filters features to effectively capture local information while suppressing interference, thereby reducing noise. Additionally, to overcome the limitations of traditional fusion methods that restrict the model’s receptive field, a Multi-Scale Hierarchical Feature Fusion Module (MS-HFFM) is proposed, complemented by a pyramid-structured point cloud generator to enhance detail recovery. Furthermore, a joint loss function based on Chamfer Distance (CD) and Earth Mover Distance (EMD) is designed to minimize stitching artifacts in the completed point cloud, thereby improving its quality. Experimental results demonstrate that the proposed model achieves average CD and EMD values of 0.82×10–3 and 2.712×10–3, respectively, on an augmented ShapeNetCore dataset, with the picking point localization method attaining an average accuracy of 90.40%. These findings provide robust support for the development of cucumber harvesting robots.
+ER  - 
+
+TY  - CONF
+TI  - Agentic BDD Testing of Dialog Systems: Stabilizing the Dialog Manager via Failure-Driven Evolution
+T2  - 2025 33rd Telecommunications Forum (TELFOR)
+SP  - 1
+EP  - 4
+AU  - O. Dukić
+AU  - O. Ristić
+PY  - 2025
+KW  - Accelerated aging
+KW  - Knowledge based systems
+KW  - Production
+KW  - Life estimation
+KW  - Logic gates
+KW  - Chatbots
+KW  - Reproducibility of results
+KW  - Telecommunications
+KW  - Iterative methods
+KW  - Testing
+KW  - agent-based testing
+KW  - behavior-driven development (BDD)
+KW  - dialog systems
+KW  - chatbots
+DO  - 10.1109/TELFOR67910.2025.11314366
+JO  - 2025 33rd Telecommunications Forum (TELFOR)
+IS  - 
+SN  - 2994-5828
+VO  - 
+VL  - 
+JA  - 2025 33rd Telecommunications Forum (TELFOR)
+Y1  - 25-26 Nov. 2025
+AB  - We present a lightweight agentic framework for behavior-driven (BDD) testing of dialog systems. It runs YAML scenarios against a production Dialog Manager (DM) via a thin API and applies a two-layer test oracle (substring on text + expected DM state), logging per-step metrics. On an educational chatbot (3 flows, 6 scenarios), minor fixes improve 85/90 (94.4%) to 89/94 (94.7%) and cut flaky cases from 16.7% to 11.1%, with 100% pass in flows A and B. The framework acts as a CI/CD quality gate.
+ER  - 
+
+TY  - CONF
+TI  - The Role of Machine Learning and Large Language Models in Software Testing and Validation
+T2  - 2025 IEEE 22nd International Conference on Sciences and Techniques of Automatic Control and Computer Engineering (STA)
+SP  - 395
+EP  - 400
+AU  - Y. Hachaïchi
+AU  - M. A. Ouerghi
+PY  - 2025
+KW  - Software testing
+KW  - Large language models
+KW  - Semantics
+KW  - Retrieval augmented generation
+KW  - Natural languages
+KW  - Software quality
+KW  - Manuals
+KW  - Syntactics
+KW  - Scenario generation
+KW  - Prompt engineering
+KW  - Machine Learning
+KW  - Large Language Models
+KW  - Software Testing
+KW  - Behavior-Driven Development
+KW  - RetrievalAugmented Generation
+KW  - Prompt Engineering
+KW  - Quality Assurance Automation
+KW  - Gherkin Scenarios
+KW  - Test Case Generation
+DO  - 10.1109/STA66620.2025.11364940
+JO  - 2025 IEEE 22nd International Conference on Sciences and Techniques of Automatic Control and Computer Engineering (STA)
+IS  - 
+SN  - 2573-539X
+VO  - 
+VL  - 
+JA  - 2025 IEEE 22nd International Conference on Sciences and Techniques of Automatic Control and Computer Engineering (STA)
+Y1  - 20-22 Dec. 2025
+AB  - Ensuring software quality in agile and continuous integration environments has become increasingly challenging due to the complexity and pace of modern development. This paper explores the use of Large Language Models (LLMs) in automating software testing and validation processes. We present an AI-based framework leveraging Retrieval-Augmented Generation (RAG) and prompt engineering to automatically generate Gherkin scenarios from Jira Xray requirements within a Behavior-Driven Development (BDD) context. Following the CRISP-DM methodology, the system integrates semantic retrieval, generative modeling, and human-in-the-loop validation to ensure syntactic compliance, semantic fidelity, and industrial applicability. Experimental results show that the proposed approach achieves a high syntactic accuracy, BLEU score, and an 87% reduction in test generation time compared to manual methods. These findings demonstrate the feasibility and effectiveness of LLM-driven automation in bridging natural language requirements with executable test artifacts, marking a significant advancement in AI-augmented software quality assurance.
+ER  - 
+
+TY  - CONF
+TI  - AI driven Test Scenario Generator
+T2  - 2025 5th International Conference on Information Communication and Software Engineering (ICICSE)
+SP  - 98
+EP  - 103
+AU  - A. Chatterjee
+PY  - 2025
+KW  - Automation
+KW  - Reviews
+KW  - Pipelines
+KW  - Microservice architectures
+KW  - Transforms
+KW  - Manuals
+KW  - Scenario generation
+KW  - Contracts
+KW  - Testing
+KW  - Software engineering
+KW  - BDD Testing
+KW  - API Testing
+KW  - Cucumber
+KW  - Swagger/OpenAPI
+KW  - AI-driven Test Automation
+KW  - Test Scenario Generation
+KW  - Microservice testing
+DO  - 10.1109/ICICSE66971.2025.11430054
+JO  - 2025 5th International Conference on Information Communication and Software Engineering (ICICSE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 5th International Conference on Information Communication and Software Engineering (ICICSE)
+Y1  - 12-14 Dec. 2025
+AB  - Modern microservice ecosystems expose rapidly evolving REST APIs and complex interaction patterns that make manual Behavior-Driven Development (BDD) scenario authoring slow and difficult to scale. While Cucumber provides a clear, shared language for specifying behavior, writing and maintaining scenarios and step definitions by hand remains a major bottleneck. This paper presents an AI-driven framework that transforms machine-readable API contracts into executable BDD artifacts. This framework ingests Swagger/OpenAPI specifications, parses endpoints, schemas, and constraints, and applies user-defined rules encoding domain policies, compliance requirements, and negative-path priorities. A synthesis engine then generates standardized scenarios, deduplicates overlapping cases, and ensures consistent phrasing for traceability and reuse. A human-in-the-loop review further enriches test data, tunes edge cases, and finalizes assertions, focusing expert input where it adds the most value.Compared to manual approaches, this framework (i) produces readable, executable BDD scenarios directly from contracts, (ii) integrates rule-driven guidance with specification grounding to target domain-critical paths, and (iii) fits seamlessly into existing Cucumber/JUnit pipelines. Evaluation across internal services shows notable reductions in authoring time, improved negative-path coverage, and stronger alignment between specifications and test suites, enabling scalable, maintainable automation for continuous delivery environments.
+ER  - 
+
+TY  - CONF
+TI  - Behavior-Driven Development as an Approach to Improve Software Quality and Communication Across Remote Business Stakeholders, Developers and QA: two Case Studies
+T2  - 2019 ACM/IEEE 14th International Conference on Global Software Engineering (ICGSE)
+SP  - 105
+EP  - 110
+AU  - A. Scandaroli
+AU  - R. Leite
+AU  - A. H. Kiosia
+AU  - S. A. Coelho
+PY  - 2019
+KW  - Business
+KW  - Software
+KW  - Collaboration
+KW  - Computer bugs
+KW  - Java
+KW  - Tools
+KW  - Planning
+KW  - Distributed agile teams, Industrial offshoring and outsourcing experiences, Methods and processes, Social and Human aspects of software development.
+DO  - 10.1109/ICGSE.2019.00030
+JO  - 2019 ACM/IEEE 14th International Conference on Global Software Engineering (ICGSE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2019 ACM/IEEE 14th International Conference on Global Software Engineering (ICGSE)
+Y1  - 25-26 May 2019
+AB  - In this work, we describe two of our experiences applying BDD: one at a large publisher of financial information and business news, and the other in a secure collaboration platform vendor. The team composition involves both a local team and an external service provider. We analyze two adoption processes, one driven by the product team, and the other driven by the development team. We cover the communication benefits and impacts on areas such as stakeholder alignment, software design, code refactoring, and bug fixing. We also discuss lessons learned, caveats and how we plan to expand this practice in the future.
+ER  - 
+
+TY  - CONF
+TI  - Towards a Low-Code Programming Environment for Robot-Assisted Physical Training Activities
+T2  - 2023 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC)
+SP  - 287
+EP  - 289
+AU  - J. P. de la Rosa
+AU  - A. S. Sørensen
+AU  - T. R. Silva
+PY  - 2023
+KW  - Training
+KW  - Visualization
+KW  - Programming
+KW  - Maintenance engineering
+KW  - DSL
+KW  - Task analysis
+KW  - IEEE activities
+KW  - Low-Code Development
+KW  - Robot Programming
+KW  - End-User Development
+KW  - Behaviour-Driven Development (BDD)
+KW  - Domain-Specific Languages (DSLs)
+DO  - 10.1109/VL-HCC57772.2023.00055
+JO  - 2023 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC)
+IS  - 
+SN  - 1943-6106
+VO  - 
+VL  - 
+JA  - 2023 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC)
+Y1  - 3-6 Oct. 2023
+AB  - Programming robots has long been an expensive and time-consuming task with a high barrier to entry for non-experts. The emergence of end-user development approaches for robotics has allowed to lower this barrier. Existing approaches, however, still lack proper software engineering techniques to allow the programming of fully functional robot behaviours and facilitate further maintenance and reuse of the programs developed by end users. In this work, we introduce a low-code approach for allowing physical trainers to program robot-assisted physical training activities without the assistance of a robotics engineer. The approach relies on a textual domain-specific language (DSL) to allow end users to specify the expected robot behaviour through Behaviour-Driven Development (BDD) scenarios.
+ER  - 
+
+TY  - CONF
+TI  - Behavior-Driven Requirements Traceability via Automated Acceptance Tests
+T2  - 2017 IEEE 25th International Requirements Engineering Conference Workshops (REW)
+SP  - 431
+EP  - 434
+AU  - G. Lucassen
+AU  - F. Dalpiaz
+AU  - J. M. E. M. van der Werf
+AU  - S. Brinkkemper
+AU  - D. Zowghi
+PY  - 2017
+KW  - Runtime
+KW  - Tools
+KW  - Information retrieval
+KW  - Software systems
+KW  - Industries
+KW  - Requirements engineering
+KW  - User stories
+KW  - automated acceptance tests
+KW  - traceability
+KW  - requirements
+KW  - behavior-driven development
+DO  - 10.1109/REW.2017.84
+JO  - 2017 IEEE 25th International Requirements Engineering Conference Workshops (REW)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2017 IEEE 25th International Requirements Engineering Conference Workshops (REW)
+Y1  - 4-8 Sept. 2017
+AB  - Although information retrieval advances significantly improved automated traceability tools, their accuracy is still far from 100% and therefore they still need human intervention. Furthermore, despite the demonstrated benefits of traceability, many practitioners find the overhead for its creation and maintenance too high. We propose the Behavior Driven Traceability Method (BDT) that takes a different standpoint on automated traceability: we establish ubiquitous traceability between user story requirements and source code by taking advantage of the automated acceptance tests that are created as part of the Behavior Driven Development process.
+ER  - 
+
+TY  - CONF
+TI  - Reconciling Requirements and Continuous Integration in an Agile Context
+T2  - 2018 IEEE 26th International Requirements Engineering Conference (RE)
+SP  - 508
+EP  - 509
+AU  - S. Mosser
+AU  - J. -M. Bruel
+PY  - 2018
+KW  - Requirements engineering
+KW  - Tutorials
+KW  - Software
+KW  - Conferences
+KW  - Tools
+KW  - Testing
+KW  - Pragmatics
+KW  - Requirements
+KW  - Stories
+KW  - DevOps
+KW  - Behaviour Driven Development
+KW  - Quality Assessment
+DO  - 10.1109/RE.2018.00076
+JO  - 2018 IEEE 26th International Requirements Engineering Conference (RE)
+IS  - 
+SN  - 2332-6441
+VO  - 
+VL  - 
+JA  - 2018 IEEE 26th International Requirements Engineering Conference (RE)
+Y1  - 20-24 Aug. 2018
+AB  - The RE'18 theme is: "Crossing Boundaries and Increasing Impact". In this context we propose a tutorial on Requirements in an Agile context that aims at exploring the boundaries between requirements, specifications, stories, scenarios and tests. It follows the recent work started in the RE community about agility, from a practical point of view.
+ER  - 
+
+TY  - BOOK
+TI  - Mastering React Test-Driven Development: Build simple and maintainable web apps with React, Redux, and GraphQL
+SP  - 1
+EP  - 
+AU  - Daniel Irvine
+AU  - Justin Searls
+PY  - 2022
+DO  - 
+PB  - Packt Publishing
+SN  - 9781803230559
+UR  - http://ieeexplore.ieee.org/document/10162146
+AB  - Learn test-driven and behavior-driven development techniques that will give you greater confidence when building React applicationsKey FeaturesExplore the TDD process, how it works, and why it will help you write maintainable React appsDevelop a component testing framework from scratch, which will help you understand the mechanics of good unit testingReduce complexity by using unit tests and end-to-end acceptance tests to drive the design of your appsBook DescriptionTest-driven development (TDD) is a programming workflow that helps you build your apps by specifying behavior as automated tests. The TDD workflow future-proofs apps so that they can be modified without fear of breaking existing functionality. Another benefit of TDD is that it helps software development teams communicate their intentions more clearly, by way of test specifications. This book teaches you how to apply TDD when building React apps. You’ll create a sample app using the same React libraries and tools that professional React developers use, such as Jest, React Router, Redux, Relay (GraphQL), Cucumber, and Puppeteer. The TDD workflow is supported by various testing techniques and patterns, which are useful even if you’re not following the TDD process. This book covers these techniques by walking you through the creation of a component test framework. You’ll learn automated testing theory which will help you work with any of the test libraries that are in standard usage today, such as React Testing Library. This second edition has been revised with a stronger focus on concise code examples and has been fully updated for React 18. By the end of this TDD book, you’ll be able to use React, Redux, and GraphQL to develop robust web apps.What you will learnBuild test-driven applications using React 18 and JestUnderstand techniques and patterns for writing great automated testsUse test doubles and mocks effectivelyTest-drive browser APIs, including the Fetch API and the WebSocket APIIntegrate with libraries such as React Router, Redux, and Relay (GraphQL)Use Cucumber.js and Puppeteer to build Behaviour- Driven Development (BDD) style tests for your applicationsBuild and test async Redux code using redux-saga and expect-reduxWho this book is forThis book is for frontend developers who are looking to improve their testing practices and increase the quality and maintainability of their applications. To make the most of this book, you’ll need knowledge of the JavaScript programming language.
+ER  - 
+
+TY  - CONF
+TI  - ViMoTest: A Tool to Specify ViewModel-Based GUI Test Scenarios Using Projectional Editing
+T2  - 2025 IEEE Conference on Software Testing, Verification and Validation (ICST)
+SP  - 752
+EP  - 756
+AU  - M. Fuksa
+AU  - S. Speth
+AU  - S. Becker
+PY  - 2025
+KW  - Software testing
+KW  - Industries
+KW  - Visualization
+KW  - Java
+KW  - Codes
+KW  - Terminology
+KW  - Maintenance
+KW  - DSL
+KW  - Logic
+KW  - Graphical user interfaces
+KW  - ViMoTest
+KW  - ViewModel
+KW  - BDD
+KW  - Behavior-driven Development
+KW  - GUI Testing
+KW  - JetBrains MPS
+DO  - 10.1109/ICST62969.2025.10988969
+JO  - 2025 IEEE Conference on Software Testing, Verification and Validation (ICST)
+IS  - 
+SN  - 2159-4848
+VO  - 
+VL  - 
+JA  - 2025 IEEE Conference on Software Testing, Verification and Validation (ICST)
+Y1  - 31 March-4 April 2025
+AB  - Automated GUI testing is crucial in ensuring that presentation logic behaves as expected. However, existing tools often apply end-to-end approaches and face challenges such as high specification efforts, maintenance difficulties, and flaky tests while coupling to GUI framework specifics. To address these challenges, we introduce the ViMoTest tool, which leverages Behavior-driven Development, the ViewModel architectural pattern, and projectional Domain-specific Languages (DSLs) to isolate and test presentation logic independently of GUI frameworks. We demonstrate the tool with a small JavaFX-based task manager example and generate executable code.
+ER  - 
+
+TY  - BOOK
+TI  - Test-Driven Development with PHP 8: Build extensible, reliable, and maintainable enterprise-level applications using TDD and BDD with PHP
+SP  - 1
+EP  - 
+AU  - Rainier Sarabia
+AU  - Ben Hansen
+PY  - 2023
+DO  - 
+PB  - Packt Publishing
+SN  - 9781803243597
+UR  - http://ieeexplore.ieee.org/document/10162290
+AB  - A PHP developer's practical guide to planning, writing, and deploying maintainable and extensible software solutions with automated tests in a well-structured wayKey FeaturesLearn to organize and translate business requirements into maintainable softwareMinimize regressions and bugs while releasing new features or bug fixesBuild maintainable applications using SOLID principlesBook DescriptionPHP web developers end up building complex enterprise projects without prior experience in test-driven and behavior-driven development which results in software that’s complex and difficult to maintain. This step-by-step guide helps you manage the complexities of large-scale web applications. It takes you through the processes of working on a project, starting from understanding business requirements and translating them into actual maintainable software, to automated deployments. You’ll learn how to break down business requirements into workable and actionable lists using Jira. Using those organized lists of business requirements, you’ll understand how to implement behavior-driven development (BDD) and test-driven development (TDD) to start writing maintainable PHP code. You’ll explore how to use the automated tests to help you stop introducing regressions to an application each time you release code by using continuous integration. By the end of this book, you’ll have learned how to start a PHP project, break down the requirements, build test scenarios and automated tests, and write more testable and maintainable PHP code. By learning these processes, you’ll be able to develop more maintainable, and reliable enterprise PHP applications.What you will learnUnderstand how to start a software projectDiscover how to use Jira as a tool to organize your tasksExplore when and how to write unit, integration, and functional tests using PHPUnitWrite behavior-driven tests using BehatApply SOLID principles to help you write more testable codeGet the most out of your automated tests by using continuous integrationUse continuous delivery to help you prepare your application for deploymentWho this book is forThis book is for PHP software developers looking to implement TDD and BDD in their projects. An understanding of object-oriented programming is required to get the most out of this book. Professional software development experience will also be beneficial to understand real-life business cases.
+ER  - 
+
+TY  - CONF
+TI  - Application of Lightweight Object Detection Network in Cucumber Leaf Detection
+T2  - 2022 IEEE International Conference on Mechatronics and Automation (ICMA)
+SP  - 686
+EP  - 691
+AU  - X. Li
+AU  - Z. Yue
+AU  - J. Su
+AU  - S. Wang
+AU  - J. Hua
+AU  - F. Duan
+PY  - 2022
+KW  - Training
+KW  - Measurement
+KW  - Solid modeling
+KW  - Mechatronics
+KW  - Convolution
+KW  - Computational modeling
+KW  - Transfer learning
+KW  - Object detection
+KW  - transfer learning
+KW  - YOLO v4
+KW  - cucumber leaves
+DO  - 10.1109/ICMA54519.2022.9855974
+JO  - 2022 IEEE International Conference on Mechatronics and Automation (ICMA)
+IS  - 
+SN  - 2152-744X
+VO  - 
+VL  - 
+JA  - 2022 IEEE International Conference on Mechatronics and Automation (ICMA)
+Y1  - 7-10 Aug. 2022
+AB  - The detection of cucumber leaf diseases is a pivotal link for preventing cucumber yield reduction. Manual detection lacks real-time performance and wastes a lot of human resources. Since the public dataset lacks images of cucumber leaf disease in real scenes, we collected and established a small sample dataset of cucumber leaf disease in real scenarios, and proposed a detection method of cucumber leaf disease based on YOLO v4. In order to reduce the size of the model, MobileNet v3 is used instead of CSPDarknet53 as the backbone network. By improving the residual block, introducing depthwise separable convolution, and channel pruning, the detection effect is greatly improved while reducing the network parameters and computational complexity. For small sample datasets, transfer learning is used to improve the generalization ability of the model. The model is evaluated by metrics such as FPS (frames per second), model weight size, and MAP (average of mean precision). The experimental results show that the recognition accuracy and speed of the improved model are significantly improved. MAP (Mean Precision Mean) can reach 97.21%. FPS (frames per second) can reach 40.58 frames per second. The model occupies only 25.9 MB of memory, outperforming Faster-RCNN and YOLO v4.
+ER  - 
+
+TY  - CONF
+TI  - Skyfire: Model-Based Testing with Cucumber
+T2  - 2016 IEEE International Conference on Software Testing, Verification and Validation (ICST)
+SP  - 393
+EP  - 400
+AU  - N. Li
+AU  - A. Escalona
+AU  - T. Kamal
+PY  - 2016
+KW  - Unified modeling language
+KW  - Data structures
+KW  - Boolean functions
+KW  - Testing
+KW  - Concrete
+KW  - Software
+DO  - 10.1109/ICST.2016.41
+JO  - 2016 IEEE International Conference on Software Testing, Verification and Validation (ICST)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2016 IEEE International Conference on Software Testing, Verification and Validation (ICST)
+Y1  - 11-15 April 2016
+AB  - In the software industry, a Behavior-Driven Development (BDD) tool, Cucumber, has been widely used by practitioners. Usually product analysts, developers, and testers manually write BDD test scenarios that describe system behaviors. Testers write implementation for the BDD scenarios by hand and execute the Cucumber tests. Cucumber provides transparency about what test scenarios are covered and how the test scenarios are mapped to executable tests. One drawback of the Cucumber BDD approach is that test scenarios are generated manually. Thus, the test scenarios are usually weak. More importantly, practitioners do not have a metric to measure test coverage. In this paper, we present a Model-Based Testing (MBT) tool, skyfire. Skyfire can automatically generate effective Cucumber test scenarios to replace manually generated test scenarios. Skyfire reads a behavioral UML diagram (e.g., a state machine diagram), identifies all necessary elements (e.g., transitions) of the diagram, generates effective tests to satisfy various graph coverage criteria, and converts the tests into Cucumber scenarios. Then testers write Cucumber mappings for the generated scenarios. Skyfire does not only generate effective tests but is also completely compatible with the existing agile development and continuous integration (CI) rhythm. We present the design architecture and implementation of skyfire, as well as an industrial case study to show how skyfire is used in practice.
+ER  - 
+
+TY  - CONF
+TI  - Toward A Service Platform for Developing Smart Contracts on Blockchain in BDD and TDD Styles
+T2  - 2017 IEEE 10th Conference on Service-Oriented Computing and Applications (SOCA)
+SP  - 133
+EP  - 140
+AU  - C. -F. Liao
+AU  - C. -J. Cheng
+AU  - K. Chen
+AU  - C. -H. Lai
+AU  - T. Chiu
+AU  - C. Wu-Lee
+PY  - 2017
+KW  - Contracts
+KW  - Testing
+KW  - Software
+KW  - Tools
+KW  - Writing
+KW  - Software engineering
+KW  - Blockchain
+KW  - Smart contract
+KW  - Behavior-Driven Development
+KW  - Test-Driven Development
+DO  - 10.1109/SOCA.2017.26
+JO  - 2017 IEEE 10th Conference on Service-Oriented Computing and Applications (SOCA)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2017 IEEE 10th Conference on Service-Oriented Computing and Applications (SOCA)
+Y1  - 22-25 Nov. 2017
+AB  - In recent years, Blockchain technology has been highly valued, and the related applications have begun to be developed in large numbers. A smart contract is a software component encompass business logics and transactions that run on a blockchain. Thus, verifying whether the contract logics fully reflect the business requirements are one of the most important software engineering issues in blockchain application development. Currently, developing smart contracts is still a challenging task even for experienced programmers due to the lacking of an integrated tool for developing and testing. In response to this challenge, this paper presents a service platform that supports BDD-style (Behavior-Driven Development) smart contract development, testing, and deployment for the Ethereum-based blockchains. This platform focuses on providing and resolving the cross-cutting concerns across the life-cycle of smart contract development. The feasibility of this platform is shown by demonstrating how an application scenario, namely, loyalty points exchange, can be implemented using the proposed platform. Our experiences indicate that the burdens of developers when developing smart contracts can be effectively reduced and thus increases the quality of contracts.
+ER  - 
+
+TY  - BOOK
+TI  - Domain-Driven Design with Golang: Use Golang to create simple, maintainable systems to solve complex business problems
+SP  - 1
+EP  - 
+AU  - Matthew Boyle
+PY  - 2022
+DO  - 
+PB  - Packt Publishing
+SN  - 9781804619261
+UR  - http://ieeexplore.ieee.org/document/10163219
+AB  - Understand the concept of Domain-driven design and build two DDD systems from scratch that can be showcased as part of your portfolioKey FeaturesExplore Domain-driven design as a timeless concept and learn how to apply it with GoBuild a domain-driven monolithic application and a microservice from scratchLeverage patterns to make systems scalable, resilient, and maintainableBook DescriptionDomain-driven design (DDD) is one of the most sought-after skills in the industry. This book provides you with step-by-step explanations of essential concepts and practical examples that will see you introducing DDD in your Go projects in no time. Domain-Driven Design with Golang starts by helping you gain a basic understanding of DDD, and then covers all the important patterns, such as bounded context, ubiquitous language, and aggregates. The latter half of the book deals with the real-world implementation of DDD patterns and teaches you how to build two systems while applying DDD principles, which will be a valuable addition to your portfolio. Finally, you’ll find out how to build a microservice, along with learning how DDD-based microservices can be part of a greater distributed system. Although the focus of this book is Golang, by the end of this book you’ll be able to confidently use DDD patterns outside of Go and apply them to other languages and even distributed systems.What you will learnGet to grips with domains and the evolution of Domain-driven designWork with stakeholders to manage complex business needsGain a clear understanding of bounded context, services, and value objectsGet up and running with aggregates, factories, repositories, and servicesFind out how to apply DDD to monolithic applications and microservicesDiscover how to implement DDD patterns on distributed systemsUnderstand how Test-driven development and Behavior-driven development can work with DDDWho this book is forThis book is for intermediate-level Go developers who are looking to ensure that they not only write maintainable code, but also deliver great business value. If you have a basic understanding of Go and are interested in learning about Domain-driven design, or you’ve explored Domain-driven design before but never in the context of Go, then this book will be helpful.
+ER  - 
+
+TY  - CONF
+TI  - Architecture of Automated User Interface based Tests with Protocol-Oriented Programming paradigm
+T2  - 2022 IEEE 5th International Conference and Workshop Óbuda on Electrical and Power Engineering (CANDO-EPE)
+SP  - 000131
+EP  - 000136
+AU  - J. L. Basiszta
+AU  - A. Kovari
+AU  - J. Katona
+PY  - 2022
+KW  - Software testing
+KW  - Protocols
+KW  - Codes
+KW  - Computer architecture
+KW  - Programming
+KW  - User interfaces
+KW  - Writing
+KW  - protocol-oriented programming
+KW  - automated user interface tests
+KW  - Swift
+KW  - Behavior-Driven Development (BDD)
+KW  - Test-Driven Development (TDD)
+DO  - 10.1109/CANDO-EPE57516.2022.10046391
+JO  - 2022 IEEE 5th International Conference and Workshop Óbuda on Electrical and Power Engineering (CANDO-EPE)
+IS  - 
+SN  - 2831-4506
+VO  - 
+VL  - 
+JA  - 2022 IEEE 5th International Conference and Workshop Óbuda on Electrical and Power Engineering (CANDO-EPE)
+Y1  - 21-22 Nov. 2022
+AB  - Nowadays, manual and automated tests, among other things, are used to achieve the best quality of a software product. There are several types of automated tests that try to meet the needs of today’s technology, but in addition to the advantages of these techniques, there are also disadvantages that are analysed in detail in this article. The aim of this article is to develop and present the possibilities of exploiting the potential of protocol orientation in a less common programming paradigm in user interface tests that do not suffer from the previously mentioned disadvantages. The manuscript meets the theory of user interface testing with protocol orientation, creating a test project that takes advantage of Swift’s unique language capabilities by transferring best practices from traditional testing procedures, resulting in easy-to-read, easy-tomaintain test codes.
+ER  - 
+
+TY  - CONF
+TI  - Continuous Security through Integration Testing in an Electronic Health Records System
+T2  - 2020 International Conference on Software Security and Assurance (ICSSA)
+SP  - 26
+EP  - 31
+AU  - S. Purkayastha
+AU  - S. Goyal
+AU  - T. Phillips
+AU  - H. Wu
+AU  - B. Haakenson
+AU  - X. Zou
+PY  - 2020
+KW  - Measurement
+KW  - System testing
+KW  - SQL injection
+KW  - Software
+KW  - Security
+KW  - Stakeholders
+KW  - Electronic medical records
+KW  - Behavior Driven Development
+KW  - Common Vulnerability Scoring System
+KW  - Continuous Security
+KW  - Electronic Health Records
+KW  - Integration testing
+KW  - OpenMRS
+DO  - 10.1109/ICSSA51305.2020.00012
+JO  - 2020 International Conference on Software Security and Assurance (ICSSA)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2020 International Conference on Software Security and Assurance (ICSSA)
+Y1  - 28-30 Oct. 2020
+AB  - The estimated average cost of a healthcare data breach in 2019 was $6.45 million, which is the highest among all industries. Yet, security remains an afterthought in many digital health applications. Formal methods for testing for bugs are commonplace in software development through the use of unit testing, integration testing, system testing, and acceptance testing. More so, in modern software engineering, continuous integration is a well-known concept to run automated tests soon after any code change, when the system builds and notifies the development team of the test results. In this paper, we describe the use of a popular Python unit testing framework to implement a formal method of security testing. Common Vulnerability Scoring System (CVSS) is used to calculate metrics that represent the state of security of a deployed system. We developed a series of Pytest Behavioral Driven Development (BDD) scripts to test the Authentication and Availability of a widely used Electronic Health Records System called OpenMRS. The advantage of using the BDD approach is that testing scripts, called Gherkin files, can be read, and understood by the developers as well as the non-developer stakeholders. The use of Gherkin serves two purposes: firstly, it serves as the project’s documentation, and secondly, it automates the tests. The use of the CVSS score between 0 to 10 becomes an objective metric to compare every code change, thus achieving continuous security. We plan to expand BDD scripts to attacks like Denial of Service, Session Hijacking, SQL Injection, and other privilege escalation attacks.
+ER  - 
+
+TY  - CONF
+TI  - Scenario-Based Microservice Retrieval Using Word2Vec
+T2  - 2018 IEEE 15th International Conference on e-Business Engineering (ICEBE)
+SP  - 239
+EP  - 244
+AU  - S. -P. Ma
+AU  - Y. Chuang
+AU  - C. -W. Lan
+AU  - H. -M. Chen
+AU  - C. -Y. Huang
+AU  - C. -Y. Li
+PY  - 2018
+KW  - Software
+KW  - Organizations
+KW  - Computer architecture
+KW  - Machine learning
+KW  - Natural language processing
+KW  - Filtering
+KW  - Semantics
+KW  - Microservice, Microservice Retrieval, Requirement Scenario, Behavior-Driven Development, word2vec
+DO  - 10.1109/ICEBE.2018.00046
+JO  - 2018 IEEE 15th International Conference on e-Business Engineering (ICEBE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2018 IEEE 15th International Conference on e-Business Engineering (ICEBE)
+Y1  - 12-14 Oct. 2018
+AB  - Microservice architecture (MSA) is an emerging software architectural style, which differs fundamentally from the monolithic, layered architecture. During the development and maintenance of microservice systems, how to provide an effective service retrieval mechanism is a critical challenge to avoid the problems of rework and duplicate code. Meanwhile, nowadays, using the BDD (Behavior-Driven Development) method to develop microservices becomes more and more popular due to its agility and domain-driven characteristics. BDD is an agile software development approach emphasizing that test cases are written in a common language to include scenarios that describe the features of a target system. In this paper, we propose an approach, referred to as SMSR (Scenario-based MicroService Retrieval), to recommend appropriate microservices to users based on the user-written BDD test scenarios. The proposed service retrieval algorithm is based on word2vec, a widely-used machine learning method in NLP (Natural Language Processing), to perform service filtering and service similarity calculation. Experiment results show that SMSR is able to effectively retrieve appropriate microservices from the service repository.
+ER  - 
+
+TY  - JOUR
+TI  - Cypress Copilot: Development of an AI Assistant for Boosting Productivity and Transforming Web Application Testing
+T2  - IEEE Access
+SP  - 3215
+EP  - 3229
+AU  - S. B. Nettur
+AU  - S. Karpurapu
+AU  - U. Nettur
+AU  - L. S. Gajja
+PY  - 2025
+KW  - Automation
+KW  - Codes
+KW  - Testing
+KW  - Graphical user interfaces
+KW  - Stakeholders
+KW  - Productivity
+KW  - Java
+KW  - Business
+KW  - Accuracy
+KW  - Visualization
+KW  - Agile software development
+KW  - behavior driven development
+KW  - large language model
+KW  - machine learning
+KW  - prompt engineering
+KW  - software testing
+KW  - cypress
+KW  - selenium
+KW  - web application
+KW  - AI assistant tools
+KW  - GitHub Copilot
+KW  - code generation
+KW  - test case generation
+KW  - test automation
+KW  - zero-shot
+KW  - few-shot
+KW  - OpenAI
+KW  - GPT-3
+KW  - GPT3.5
+KW  - GPT-4
+KW  - GPT-4o
+DO  - 10.1109/ACCESS.2024.3521407
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 13
+VL  - 13
+JA  - IEEE Access
+Y1  - 2025
+AB  - In today’s fast-paced software development environment, Agile methodologies demand rapid delivery and continuous improvement, making automated testing essential for maintaining quality and accelerating feedback loops. Our study addresses the challenges of developing and maintaining automation code for web-based application testing. In this paper, we propose a novel approach that leverages large language models (LLMs) and a novel prompt technique, few-shot chain, to automate code generation for web application testing. We chose the Behavior-Driven Development (BDD) methodology owing to its advantages and selected the Cypress tool for automating web application testing, as it is one of the most popular and rapidly growing frameworks in this domain. We comprehensively evaluated various OpenAI models, including GPT-4-Turbo, GPT-4o, and GitHub Copilot, using zero-shot and few-shot chain prompt techniques. Furthermore, we extensively validated with a vast set of test cases to identify the optimal approach. Our results indicate that the Cypress automation code generated by GPT-4o using a few-shot chained prompt approach excels in generating complete code for each test case, with fewer empty methods and improved syntactical accuracy and maintainability. Based on these findings, we developed a novel open-source Visual Studio Code (IDE) extension, “Cypress Copilot” utilizing GPT-4o and a few-shot chain prompt technique, which has shown promising results. Finally, we validate the Cypress Copilot tool by generating automation code for end-to-end web tests, demonstrating its effectiveness in testing various web applications and its ability to streamline development processes. More importantly, we are releasing this tool to the open-source community, as it has the potential to be a promising partner in enhancing productivity in web application automation testing.
+ER  - 
+
+TY  - CONF
+TI  - Comparison of Methods for Automated BDD Scenario Generation with NLP and AI
+T2  - 2025 5th International Conference on Electrical, Computer, Communications and Mechatronics Engineering (ICECCME)
+SP  - 1
+EP  - 6
+AU  - L. I. Matveeva
+AU  - V. Kunštár
+AU  - K. Jelemenská
+AU  - P. Čičák
+PY  - 2025
+KW  - Software testing
+KW  - Visualization
+KW  - Automation
+KW  - Text analysis
+KW  - Terminology
+KW  - Manuals
+KW  - Scenario generation
+KW  - Stakeholders
+KW  - Artificial intelligence
+KW  - Usability
+KW  - Behavior-Driven Development
+KW  - test scenario generation
+KW  - NLP
+KW  - software testing automation
+DO  - 10.1109/ICECCME64568.2025.11277590
+JO  - 2025 5th International Conference on Electrical, Computer, Communications and Mechatronics Engineering (ICECCME)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 5th International Conference on Electrical, Computer, Communications and Mechatronics Engineering (ICECCME)
+Y1  - 16-19 Oct. 2025
+AB  - Effective software testing plays a key role in ensuring the quality of developed systems. Behavior-Driven Development (BDD) is an approach that promotes collaboration between technical and non-technical team members through a language based on describing the expected behavior of the system. In this research, we explore the possibilities of automated BDD scenario generation from use cases, aiming to reduce manual effort and eliminate ambiguities between teams. We compare three approaches: a manual method using NLP libraries, generation using language models with a zero-shot approach, and an extended approach using a few-shot method supported by text analysis tools. The results show that a combination of artificial intelligence, rules, and example cases provides the highest quality, consistency, and practical usability of test scenarios. The proposed solution can contribute to improving test automation in the early stages of development and support communication between technical teams and stakeholders.
+ER  - 
+
+TY  - CONF
+TI  - Automated testing framework development based on social interaction and communication principles
+T2  - 2017 14th International Conference on Engineering of Modern Electric Systems (EMES)
+SP  - 136
+EP  - 139
+AU  - A. Contan
+AU  - L. Miclea
+AU  - C. Dehelean
+PY  - 2017
+KW  - Testing
+KW  - Software
+KW  - Business
+KW  - Documentation
+KW  - Collaboration
+KW  - Automation
+KW  - Libraries
+KW  - testing process
+KW  - BDD
+KW  - automated testing
+KW  - Gherkin language
+DO  - 10.1109/EMES.2017.7980399
+JO  - 2017 14th International Conference on Engineering of Modern Electric Systems (EMES)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2017 14th International Conference on Engineering of Modern Electric Systems (EMES)
+Y1  - 1-2 June 2017
+AB  - The speed of development of the IT industry as well as the computational power which are increasing exponentially, create great competitiveness in the process of development but also in the launching of software products on the market. Automated testing comes to help with these challenges by trying to increase the speed of development by offering fast feedback and trustworthy quality by means of repeated runs of the implemented tests. This isn't a problem just on a technical level, but also on a social level, especially in the area of communication and understanding the requirements of the client. This work presents the implementation of an automated testing framework which also addresses the social problems. BDD or “Behavior Driven Development” includes an approach which would like to line up the area of client requests to the technical area, offering a uniform platform of collaboration and development. The implementation of this principle is applied in an MVP (Minimum Viable Product) type project which is meant to demonstrate the technical solution which may draw together, both socially and communication wise, the business teams and the technical implementation teams.
+ER  - 
+
+TY  - CONF
+TI  - Towards Code Generation from BDD Test Case Specifications: A Vision
+T2  - 2023 IEEE/ACM 2nd International Conference on AI Engineering – Software Engineering for AI (CAIN)
+SP  - 139
+EP  - 144
+AU  - L. Chemnitz
+AU  - D. Reichenbach
+AU  - H. Aldebes
+AU  - M. Naveed
+AU  - K. Narasimhan
+AU  - M. Mezini
+PY  - 2023
+KW  - Industries
+KW  - Codes
+KW  - Machine learning
+KW  - Software quality
+KW  - Transformers
+KW  - Behavioral sciences
+KW  - Software engineering
+KW  - machine learning
+KW  - code generation
+KW  - behavior driven development
+KW  - software testing
+KW  - transformer
+KW  - artificial intelligence
+KW  - software engineering
+KW  - frontend
+DO  - 10.1109/CAIN58948.2023.00031
+JO  - 2023 IEEE/ACM 2nd International Conference on AI Engineering – Software Engineering for AI (CAIN)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2023 IEEE/ACM 2nd International Conference on AI Engineering – Software Engineering for AI (CAIN)
+Y1  - 15-16 May 2023
+AB  - Automatic code generation has recently attracted large attention and is becoming more significant to the software development process. Solutions based on Machine Learning and Artificial Intelligence are being used to increase human and software efficiency in potent and innovative ways. In this paper, we aim to leverage these developments and introduce a novel approach to generating frontend component code for the popular Angular framework. We propose to do this using behavior-driven development test specifications as input to a transformer-based machine learning model; however, we do not provide any proof-of-concept solution in this work. Our approach aims to drastically reduce the development time needed for web applications while potentially increasing software quality and introducing new research ideas toward automatic code generation.
+ER  - 
+
+TY  - CONF
+TI  - Scenario-Based Field Testing of Drone Missions
+T2  - 2024 50th Euromicro Conference on Software Engineering and Advanced Applications (SEAA)
+SP  - 10
+EP  - 17
+AU  - M. Vierhauser
+AU  - K. Meixner
+AU  - S. Biffl
+PY  - 2024
+KW  - Quality assurance
+KW  - Navigation
+KW  - Data collection
+KW  - Requirements engineering
+KW  - Iterative methods
+KW  - Interviews
+KW  - Testing
+KW  - Drones
+KW  - Software engineering
+KW  - Meteorology
+KW  - Cyber-Physical Systems
+KW  - small Uncrewed Aerial Systems
+KW  - UAV
+KW  - Behavior-Driven Development
+DO  - 10.1109/SEAA64295.2024.00012
+JO  - 2024 50th Euromicro Conference on Software Engineering and Advanced Applications (SEAA)
+IS  - 
+SN  - 2376-9521
+VO  - 
+VL  - 
+JA  - 2024 50th Euromicro Conference on Software Engineering and Advanced Applications (SEAA)
+Y1  - 28-30 Aug. 2024
+AB  - Testing and validating Cyber-Physical Systems (CPSs) in the aerospace domain, such as field testing of drone rescue missions, poses challenges due to volatile mission environments, such as weather conditions. While testing processes and methodologies are well established, structured guidance and execution support for field tests are still weak. This paper identifies requirements for field testing of drone missions and introduces the Field Testing Scenario Management (FiTS) approach for adaptive field testing guidance. FiTS aims to provide sufficient guidance for field testers as a foundation for efficient data collection to facilitate quality assurance and iterative improvement of field tests and CPSs. FiTS shall leverage concepts from scenario-based requirements engineering and Behavior-Driven Development to define structured and reusable test scenarios, with dedicated tasks and responsibilities for role-specific guidance. We evaluate FiTS by (i) applying it to three use cases for a search-and-rescue drone application to demonstrate feasibility and (ii) interviews with three experienced drone developers to assess its usefulness and collect further requirements. The study results indicate FiTS to be feasible and useful to facilitate drone field testing and data analysis.
+ER  - 
+
+TY  - BOOK
+TI  - Simplify Testing with React Testing Library: Create maintainable tests using RTL that do not break with changes
+SP  - 1
+EP  - 
+AU  - Scottie Crump
+PY  - 2021
+DO  - 
+PB  - Packt Publishing
+SN  - 9781800565098
+UR  - http://ieeexplore.ieee.org/document/10162162
+AB  - A fast-paced, practical guide to helping you leverage React Testing Library to test the DOM output of componentsKey FeaturesGet to grips with React Testing Library and create tests that don't break with changes in implementationLearn how to put RTL into practice by implementing it in real-world scenariosTest apps to be more accessible and ensure your tests will work with actual DOM nodesBook DescriptionReact Testing Library (RTL) is a lightweight and easy-to-use tool for testing the document object model (DOM) output of components. This book will show you how to use this modern, user-friendly tool to test React components, reducing the risk that your application will not work as expected in production. The book demonstrates code snippets that will allow you to implement RTL easily, helping you to understand the guiding principles of the DOM Testing Library to write tests from the perspective of the user. You'll explore the advantages of testing components from the perspective of individuals who will actually use your components, and use test-driven development (TDD) to drive the process of writing tests. As you advance, you'll discover how to add RTL to React projects, test components using the Context API, and also learn how to write user interface (UI) end-to-end tests using the popular Cypress library. Throughout this book, you’ll work with practical examples and useful explanations to be able to confidently create tests that don't break when changes are made. By the end of this React book, you will have learned all you need to be able to test React components confidently.What you will learnExplore React Testing Library and its use casesGet to grips with the RTL ecosystemApply jest-dom to enhance your tests using RTLGain the confidence you need to create tests that don't break with changes using RTLIntegrate Cucumber and Cypress into your test suiteUse TDD to drive the process of writing testsApply your existing React knowledge for using RTLWho this book is forThis book is for software engineers, quality engineers and React developers who want to learn about modern practices used for testing React components using the latest testing tool, RTL. Basic knowledge of React development is required to get the most out of this book.
+ER  - 
+
+TY  - CONF
+TI  - Automatic acceptance testing of the web application security with ITU-T X.805 framework
+T2  - 2015 Second International Conference on Computer Science, Computer Engineering, and Social Media (CSCESM)
+SP  - 103
+EP  - 108
+AU  - P. Rathod
+AU  - V. Julkunen
+AU  - T. Kaisti
+AU  - J. Nissilä
+PY  - 2015
+KW  - Buildings
+KW  - Companies
+KW  - Testing
+KW  - Guidelines
+KW  - Security
+KW  - EUCISE 2020
+KW  - ITU-T Recommendation X.805
+KW  - NABC analysis
+KW  - web application development
+KW  - automated testing scenario
+KW  - behavior-driven development (BDD)
+DO  - 10.1109/CSCESM.2015.7331876
+JO  - 2015 Second International Conference on Computer Science, Computer Engineering, and Social Media (CSCESM)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2015 Second International Conference on Computer Science, Computer Engineering, and Social Media (CSCESM)
+Y1  - 21-23 Sept. 2015
+AB  - Web application development companies should ensure the high quality of their products. This can be achieved through high quality of the software development lifecycle. Web applications are mostly running on the Internet and are being exposed to many security threats and malicious operations. The mission of EUCISE2020 project (EUropean test bed for the maritime Common Information Sharing Environment in the 2020 perspective) is to enhance interoperability between systems and networks. The interconnections must be established in a decentralized way using cutting-edge technologies. Hence, it requires innovative and practical solutions from the web development companies. The research problem is being addressed with the Stanford Research Institute NABC (Needs, Approach, Benefits and Competition) method. Our approach is to conceptualize a testing scenario for the web application development process. The concept utilizes the International Telecommunication Union recommended standard security framework (ITU-T X.805) in the context of test automation for end-to-end communications. This study presents a new holistic solution in feature driven fashion. As a result, we propose that building acceptance test scenarios using ITU-T X.805 guidelines in Software Development Lifecycle is a sustainable approach.
+ER  - 
+
+TY  - CONF
+TI  - Intelligent Agricultural Product Quality Monitoring System Leveraging Sensor Network Data
+T2  - 2026 IEEE International Conference on Power, Electronics and Green Energy (ICPEGE)
+SP  - 1797
+EP  - 1802
+AU  - Y. Wang
+AU  - P. Jiang
+AU  - L. Yuan
+PY  - 2026
+KW  - Temperature sensors
+KW  - Accuracy
+KW  - Trees (botanical)
+KW  - Greenhouses
+KW  - Prediction algorithms
+KW  - Spatiotemporal phenomena
+KW  - Time factors
+KW  - Monitoring
+KW  - Long short term memory
+KW  - Thermal stability
+KW  - Sensor Network
+KW  - Agricultural Product Quality Monitoring
+KW  - STA-LSTM Algorithm
+KW  - Spatiotemporal Attention Mechanism
+KW  - Experimental Simulation
+KW  - Real-Time Early Warning
+DO  - 10.1109/ICPEGE67691.2026.11451583
+JO  - 2026 IEEE International Conference on Power, Electronics and Green Energy (ICPEGE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2026 IEEE International Conference on Power, Electronics and Green Energy (ICPEGE)
+Y1  - 28-30 Jan. 2026
+AB  - To address the significant differences in monitoring requirements across agricultural production scenarios, such as greenhouses, fields, and fruit trees, and the difficulty of traditional time series algorithms in effectively capturing spatiotemporal characteristics, this paper designs a multi-scenario adaptive intelligent agricultural product monitoring system and proposes a spatiotemporal attention fusion LSTM (STA-LSTM) algorithm. The system comprises three core modules: the sensor network layer is deployed according to specific scenarios (50 m2/node in greenhouses, 20 m2/node in fields, and a combination of "trunk and ground" deployment for fruit trees). It utilizes devices such as the SHT30 temperature and humidity sensor (accuracy: ±0.5°C) and the JWSK-600 soil sensor (accuracy: ±0.1 pH). The data transmission layer adapts ZigBee (for greenhouses), LoRa (for fields), and 4G (for long-range networks), employing AES-128 encryption and CRC-16 checksum to ensure data security. The intelligent analysis layer, based on the STA-LSTM algorithm, integrates six core monitoring data types (temperature, humidity, soil parameters, etc.) using a time period adjustment factor (α = 0.2) and a spatial weighting model to improve prediction accuracy. The experiment used 12,600 samples (7,200 for tomatoes and 5,400 for cucumbers) collected over 60 days at a planting base in Jiangsu Province, comparing them with traditional LSTM, GRU, and CNN-LSTM algorithms. Results show that STA-LSTM achieved an RMSE of 0.032 (a 28.9% reduction compared to traditional LSTM) and an Acc of 96.8% (an 8.2% improvement) in tomato monitoring, and an RMSE of 0.035 (a 26.3% reduction) and an Acc of 95.6% (a 7.5% improvement) in cucumber monitoring. The system also achieved an abnormal response time of 0.8s, with accuracy dropping only 2.1% when resistant to 10% noise. Regarding system performance, the system achieved a response time of 5.01s under a high load of 10,000 data items, a node optimization lifespan of 98-111 days (energy consumption reduced by 44%-45%), and an average daily failure rate of ≤0.3 in a 30-day stability test, meeting the real-time and reliability requirements of precision agricultural monitoring.
+ER  - 
+
+TY  - CONF
+TI  - Streamlining Acceptance Test Generation for Mobile Applications Through Large Language Models: An Industrial Case Study
+T2  - 2025 40th IEEE/ACM International Conference on Automated Software Engineering (ASE)
+SP  - 3311
+EP  - 3321
+AU  - P. L. Fonseca
+AU  - B. Lima
+AU  - J. P. Faria
+PY  - 2025
+KW  - Surveys
+KW  - Large language models
+KW  - Manuals
+KW  - Mobile applications
+KW  - Maintenance
+KW  - Test pattern generators
+KW  - Standards
+KW  - Testing
+KW  - Software engineering
+KW  - Software development management
+KW  - Acceptance Testing
+KW  - Large Language Models
+KW  - Mobile Applications
+KW  - Flutter
+KW  - Test Case Generation
+KW  - Cross-Platform Development
+KW  - Gherkin
+KW  - Test Automation
+DO  - 10.1109/ASE63991.2025.00273
+JO  - 2025 40th IEEE/ACM International Conference on Automated Software Engineering (ASE)
+IS  - 
+SN  - 2643-1572
+VO  - 
+VL  - 
+JA  - 2025 40th IEEE/ACM International Conference on Automated Software Engineering (ASE)
+Y1  - 16-20 Nov. 2025
+AB  - Mobile acceptance testing remains a bottleneck in modern software development, particularly for cross-platform mobile development using frameworks like Flutter. While developers increasingly rely on automated testing tools, creating and maintaining acceptance test artifacts still demands significant manual effort. To help tackle this issue, we introduce AToMIC, an automated framework leveraging specialized Large Language Models to generate Gherkin scenarios, Page Objects, and executable UI test scripts directly from requirements (JIRA tickets) and recent code changes. Applied to BMW’s MyBMW app, covering 13 real-world issues in a 170+ screen codebase, AToMIC produced executable test artifacts in under five minutes per feature on standard hardware. The generated artifacts were of high quality: 93.3% of Gherkin scenarios were syntactically correct upon generation, 78.8% of PageObjects ran without manual edits, and 100% of generated UI tests executed successfully. In a survey, all practitioners reported time savings (often a full developer-day per feature) and strong confidence in adopting the approach. These results confirm AToMIC as a scalable, practical solution for streamlining acceptance test creation and maintenance in industrial mobile projects.
+ER  - 
+
+TY  - CONF
+TI  - Ontology-Based Approach to the Requirements Engineering in Agile Environment
+T2  - 2018 XIV International Scientific-Technical Conference on Actual Problems of Electronics Instrument Engineering (APEIE)
+SP  - 496
+EP  - 501
+AU  - M. S. Murtazina
+AU  - T. V. Avdeenko
+PY  - 2018
+KW  - Ontologies
+KW  - Software
+KW  - Requirements engineering
+KW  - Stakeholders
+KW  - Writing
+KW  - Semantics
+KW  - User story
+KW  - Gherkin notation
+KW  - ontology
+KW  - agile development
+KW  - requirements engineering
+DO  - 10.1109/APEIE.2018.8546144
+JO  - 2018 XIV International Scientific-Technical Conference on Actual Problems of Electronics Instrument Engineering (APEIE)
+IS  - 
+SN  - 2473-8573
+VO  - 
+VL  - 
+JA  - 2018 XIV International Scientific-Technical Conference on Actual Problems of Electronics Instrument Engineering (APEIE)
+Y1  - 2-6 Oct. 2018
+AB  - The paper proposes an ontological approach to the requirements engineering in Agile environment. The key features of requirements engineering for agile project management of software product development are analyzed. A brief overview of the possibilities of using ontologies for intellectual support of the process of requirements engineering in Agile environment is given. Understanding stakeholder needs, prioritizing requirements, and assessing implementation risks are vital tasks for software development projects. Based on the analysis of scientific publications, it is concluded that it is necessary to create an ontology for a comprehensive assessment of requirements in the agile projects. The developed ontology accumulates knowledge about the criteria for assessing the quality of user stories, about requirements artifacts, types of requirements. The structure of the user story is represented by the ontology classes. The ontology includes axioms determining the quality of user story wording, the definition of priority and the risk of user stories based on the matrix approach. Also, the ontology allows you to trace the relationships of user stories with sources of requirements, non-functional requirements, product versions, which include requirements, scenarios that reveal user stories. Classes that reflect scenarios are developed in accordance with the technique of behavior-based development, in which Gherkin notation is used to develop scenarios.
+ER  - 
+
+TY  - CONF
+TI  - Combining IID with BDD to Enhance the Critical Quality of Security Functional Requirements
+T2  - 2014 Ninth International Conference on Broadband and Wireless Computing, Communication and Applications
+SP  - 292
+EP  - 299
+AU  - S. -T. Lai
+AU  - F. -Y. Leu
+AU  - W. C. -C. Chu
+PY  - 2014
+KW  - Security
+KW  - Data structures
+KW  - Boolean functions
+KW  - Software systems
+KW  - Q-factor
+KW  - Complexity theory
+KW  - BDD
+KW  - IID
+KW  - security requirements
+KW  - functional requirements
+KW  - security functional requirements
+DO  - 10.1109/BWCCA.2014.78
+JO  - 2014 Ninth International Conference on Broadband and Wireless Computing, Communication and Applications
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2014 Ninth International Conference on Broadband and Wireless Computing, Communication and Applications
+Y1  - 8-10 Nov. 2014
+AB  - In software system, functional requirements are primary system requirements. Client cannot explicitly depicted security requirements and the development team is hard to understand security requirements, makes security requirements difficult to specific implant software system. In software system development process, security requirements often neglected and ignored. However, the cost of correcting security flaws in maintenance phase is over 100 times in requirements phase. Can't effectively improve the system security, enterprises loss is bound to continue to expand. In order to enhance the security of software system, this paper combines the popular software development methodology IID (Interactive and Incremental Development) with BDD (Behavior Driven Development), institutionalized requires functional requirements must be integrated into security requirements. And, using BDD process features to evaluate the major quality of security functional requirements. Timely identifies and modifies the quality defects of security functional requirements item, effectively enhance the security of software systems.
+ER  - 
+
+TY  - BOOK
+TI  - Effective Unit Testing: A guide for Java developers
+SP  - 1
+EP  - 
+AU  - Lasse Koskela
+PY  - 2013
+DO  - 
+PB  - Manning
+SN  - 9781935182573
+UR  - http://ieeexplore.ieee.org/document/10279848
+AB  - Effective Unit Testing is written to show how to write good tests—tests that are concise and to the point, expressive, useful, and maintainable. Inspired by Roy Osherove's bestselling The Art of Unit Testing, this book focuses on tools and practices specific to the Java world. It introduces you to emerging techniques like behavior-driven development and specification by example, and shows you how to add robust practices into your toolkit.
+ER  - 
+
+TY  - CONF
+TI  - Notice of Violation of IEEE Publication Principles: Mobile Application Development: Automated Test Input Generation Via Model Inference based on User Story and Acceptance Criteria
+T2  - 2019 International Conference on Digitization (ICD)
+SP  - 92
+EP  - 103
+AU  - H. Iqbal
+PY  - 2019
+DO  - 10.1109/ICD47981.2019.9105761
+JO  - 2019 International Conference on Digitization (ICD)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2019 International Conference on Digitization (ICD)
+Y1  - 18-19 Nov. 2019
+AB  - In the past few years, there has been observed explosive growth in the development of Mobile Applications across Android and iOS operating system which has led to the direct impact towards mobile app development. In order to design and propose quality-oriented apps, it is the primary responsibility of the developers to devote time and sufficient efforts towards testing to make the Apps bug free and operational in the hands of end users without any hiccup. In order to test the mobile apps, manual testing procedures takes prolonged amount of time in writing test cases and even the full testing requirements are not met. In addition to this, lack of sufficient knowledge by the tester also impacts overall quality and assurance that app is bug free. To overcome all the issues of testing, and to assure that apps designed by developers are almost bug free, we propose a new testing methodology cum tool “AgileUATM” which works primarily towards white-box and black-box testing. With this tool, all the test cases are generated automatically based on user stories and acceptance criteria by using formal specification and Z3 SMT solvers. To test the validity of the proposed tool, we applied the tool in real-time operational environment with regard to test Mobile apps. Using this tool, all the acceptance criteria is determined via user stories. The testers/developers specify requirements with formal specifications based on programs properties, predicates, invariants, and constraints. From the results, it is observed that the proposed tool i.e. AgileUATM generated effective and accurate test cases, test input, and expected output was generated in a unified fashion from the user stories to meet acceptance criteria. In addition to this, the tool also reduced the development time to identify test data as compared to manual Behavior Driven Development (BDD) methodologies. With this tool, the developers got better idea with regard to required tests and able to translate the customers natural languages to the computer language as well.
+ER  - 
+
+TY  - CONF
+TI  - Empirical Studies on M-X Algorithm Implementation in Tester Eligibility Classification for Crowdsourced Based User Acceptance Testing
+T2  - 2025 3rd International Conference on Software Engineering and Information Technology (ICoSEIT)
+SP  - 1
+EP  - 6
+AU  - G. S. Dhamang Aji
+AU  - D. Sulistiyo Kusumo
+PY  - 2025
+KW  - Accuracy
+KW  - Software algorithms
+KW  - Memory
+KW  - Quality control
+KW  - Logic gates
+KW  - Software systems
+KW  - Particle measurements
+KW  - Classification algorithms
+KW  - Standards
+KW  - Software engineering
+KW  - crowdsourcing
+KW  - user acceptance testing
+KW  - quality control
+KW  - M-X algorithm
+KW  - online assessment
+KW  - client-server
+DO  - 10.1109/ICoSEIT67010.2025.11290728
+JO  - 2025 3rd International Conference on Software Engineering and Information Technology (ICoSEIT)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 3rd International Conference on Software Engineering and Information Technology (ICoSEIT)
+Y1  - 8-9 Oct. 2025
+AB  - Crowdsourced User Acceptance Testing (UAT) pro-vides cost-efficient evaluation by involving diverse testers, but it often suffers from inconsistent outcomes due to ineligible participants. Conventional quality control approaches are difficult to apply in UAT because tasks are subjective and typically lack predefined correct answers. This study addresses the challenge by empirically validating the M-X algorithm as a consistency-based mechanism to classify tester eligibility without relying on ground truth. A client-server system was developed using GraphQL as the API gateway and MongoDB for data storage, integrating the M-X algorithm to process tester responses. The simulation involved 24 participants with balanced prior experience in UAT and was conducted through five iterations using structured Gherkin-based tasks. Prior-experience validation served as the reference benchmark for evaluating classification outcomes. The assessment employed Confusion Matrix metrics mapped directly to research questions, including Accuracy, Precision, Recall, F1 Score, and True Negative Rate (TNR). Results showed that the M-X algorithm achieved 79% accuracy, 82% precision, 75% recall, 78% F1 Score, and 83% TNR. These findings indicate strong effectiveness in minimizing false positives while moderately conservative in recall. The study concludes that the M-X algorithm is a promising quality control approach for subjective and explorative UAT scenarios, though complementary mechanisms may be needed to fully capture tester expertise in real-world deployments.
+ER  - 
+
+TY  - CONF
+TI  - Visual Test Framework: Enhancing Software Test Automation with Visual Artificial Intelligence and Behavioral Driven Development
+T2  - 2023 IEEE 15th International Conference on Humanoid, Nanotechnology, Information Technology, Communication and Control, Environment, and Management (HNICEM)
+SP  - 1
+EP  - 5
+AU  - R. K. C. Ragel
+AU  - F. F. Balahadia
+PY  - 2023
+KW  - Surveys
+KW  - Software testing
+KW  - Visualization
+KW  - Automation
+KW  - Accuracy
+KW  - Software
+KW  - Stakeholders
+KW  - Visual AI
+KW  - Behavioral Driven Development (BDD)
+KW  - Graphical User Interface (GUI)
+KW  - Software Quality
+KW  - Software Testing
+KW  - Test Automation
+KW  - Framework
+KW  - Applitools
+DO  - 10.1109/HNICEM60674.2023.10589222
+JO  - 2023 IEEE 15th International Conference on Humanoid, Nanotechnology, Information Technology, Communication and Control, Environment, and Management (HNICEM)
+IS  - 
+SN  - 2770-0682
+VO  - 
+VL  - 
+JA  - 2023 IEEE 15th International Conference on Humanoid, Nanotechnology, Information Technology, Communication and Control, Environment, and Management (HNICEM)
+Y1  - 19-23 Nov. 2023
+AB  - Software test automation plays a crucial role in today's software needs. Traditional test automation approaches often rely on script-based testing, which can be time-consuming, error-prone, and challenging to maintain. In recent years, Visual AI (Artificial Intelligence) and Behavior Driven Development (BDD) have emerged as valuable approaches to enhance the efficiency and effectiveness of software testing. Visual AI leverages machine learning algorithms to identify visual differences in Graphical User Interfaces (GUI), accelerating the test automation process and improving accuracy. BDD focuses on defining and automating system behavior from the end-user perspective, fostering collaboration between stakeholders and eliminating the need for specialized technical expertise. This paper explores the integration of Visual AI and BDD in software test automation, aiming to evaluate its impact on test creation, execution, and maintenance. The research employs a mixed-methods approach, including surveys and evaluations of the Visual Test Framework integrated with Visual AI tools. The findings provide valuable insights into the benefits and challenges of integrating Visual AI and BDD in software test automation, highlighting their potential to streamline testing processes, improve accuracy, and eliminate technical barriers. This paper recommends the usage of Visual AI with BDD
+ER  - 
+
+TY  - CONF
+TI  - Domain Specific Modelling and Language for Safety-Critical and Security-Critical Requirements Engineering
+T2  - 2022 12th International Conference on Dependable Systems, Services and Technologies (DESSERT)
+SP  - 1
+EP  - 7
+AU  - V. Sklyar
+AU  - V. Kharchenko
+PY  - 2022
+KW  - Integrated circuits
+KW  - Air quality
+KW  - Software
+KW  - Knowledge management
+KW  - Requirements engineering
+KW  - DSL
+KW  - Power generation
+KW  - Requirements Engineering
+KW  - Domain Specific Modelling
+KW  - Domain Specific Language
+DO  - 10.1109/DESSERT58054.2022.10018738
+JO  - 2022 12th International Conference on Dependable Systems, Services and Technologies (DESSERT)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2022 12th International Conference on Dependable Systems, Services and Technologies (DESSERT)
+Y1  - 9-11 Dec. 2022
+AB  - The paper is devoted to the convergence of critical and non-critical IT in the area of Business Analysis and Requirements Engineering. We consider Domain Specific Modelling (DSM) and Domain Specific Language (DSL) as promising points to improve Requirements Engineering maturity and quality in a safety-critical and security-critical domain. The paper presents a DSM-based procedure of knowledge management that can be implemented in a software engineering company to support the reuse of domain knowledge and technical solutions. Afterward, we select Gherkin language as a sample of DSL-based requirements elicitation, analysis, documentation, and validation in a frame of Behavior Driven Development. To provide a DSM&DSL-based Requirements Engineering technique we analyzed Gherkin's applicability for different kinds and levels of critical requirements.
+ER  - 
+
+TY  - CONF
+TI  - Agile testing using user language automation with artificial intelligence in Enjisst
+T2  - 2024 IEEE Latin American Conference on Computational Intelligence (LA-CCI)
+SP  - 1
+EP  - 5
+AU  - D. T. Penagos
+AU  - N. Agudelo
+PY  - 2024
+KW  - Automation
+KW  - DevOps
+KW  - Costs
+KW  - Software algorithms
+KW  - Software
+KW  - Iterative algorithms
+KW  - Artificial intelligence
+KW  - Testing
+KW  - Software engineering
+KW  - Pragmatics
+KW  - Agile Testing
+KW  - Agility
+KW  - Artificial Intelligence in Software Testing
+KW  - BDD
+KW  - DevOps
+KW  - Test Automation
+DO  - 10.1109/LA-CCI62337.2024.10814749
+JO  - 2024 IEEE Latin American Conference on Computational Intelligence (LA-CCI)
+IS  - 
+SN  - 2769-7622
+VO  - 
+VL  - 
+JA  - 2024 IEEE Latin American Conference on Computational Intelligence (LA-CCI)
+Y1  - 13-15 Nov. 2024
+AB  - Current software engineering focuses on achieving higher quality and speed in development and generating value for the business. This article proposes combining scenario thinking from requirement analysis techniques, such as Use Case 2.0, with test design and automation using the approaches of "Behavior-Driven Development (BDD)" and "Acceptance Test-Driven Development (ATDD)." This approach involves designing automated functional tests supported by artificial intelligence before development, which provides benefits regarding the time and cost of test automation. Enjisst is a user-language test automation platform aimed at creating different options for functional testing, which improves the understanding of the problem and promotes more effective communication of requirements across the entire team. This article demonstrates how Enjisst implements the described approach, which, supported by artificial intelligence and other sophisticated aspects, improves development speed and quality by over 50%. In summary, applying the required quality concepts in current agile and DevOps methodologies is a practical way.
+ER  - 
+
+TY  - BOOK
+TI  - Hands-On Software Architecture with Java: Learn key architectural techniques and strategies to design efficient and elegant Java applications
+SP  - 1
+EP  - 
+AU  - Giuseppe Bonocore
+PY  - 2022
+DO  - 
+PB  - Packt Publishing
+SN  - 9781800206144
+UR  - http://ieeexplore.ieee.org/document/10162258
+AB  - Build robust and scalable Java applications by learning how to implement every aspect of software architectureKey FeaturesUnderstand the fundamentals of software architecture and build production-grade applications in JavaMake smart architectural decisions with comprehensive coverage of various architectural approaches from SOA to microservicesGain an in-depth understanding of deployment considerations with cloud and CI/CD pipelinesBook DescriptionWell-written software architecture is the core of an efficient and scalable enterprise application. Java, the most widespread technology in current enterprises, provides complete toolkits to support the implementation of a well-designed architecture. This book starts with the fundamentals of architecture and takes you through the basic components of application architecture. You'll cover the different types of software architectural patterns and application integration patterns and learn about their most widespread implementation in Java. You'll then explore cloud-native architectures and best practices for enhancing existing applications to better suit a cloud-enabled world. Later, the book highlights some cross-cutting concerns and the importance of monitoring and tracing for planning the evolution of the software, foreseeing predictable maintenance, and troubleshooting. The book concludes with an analysis of the current status of software architectures in Java programming and offers insights into transforming your architecture to reduce technical debt. By the end of this software architecture book, you'll have acquired some of the most valuable and in-demand software architect skills to progress in your career.What you will learnUnderstand the importance of requirements engineering, including functional versus non-functional requirementsExplore design techniques such as domain-driven design, test-driven development (TDD), and behavior-driven developmentDiscover the mantras of selecting the right architectural patterns for modern applicationsExplore different integration patternsEnhance existing applications with essential cloud-native patterns and recommended practicesAddress cross-cutting considerations in enterprise applications regardless of architectural choices and application typeWho this book is forThis book is for Java software engineers who want to become software architects and learn everything a modern software architect needs to know. The book is also for software architects, technical leaders, vice presidents of software engineering, and CTOs looking to extend their knowledge and stay up to date with the latest developments in the field of software architecture.
+ER  - 
+
+TY  - CONF
+TI  - Impact of Artificial Intelligence on Software Development Efficiency
+T2  - 2025 International Conference on Emerging Engineering Technologies and Applications (IC-EETA)
+SP  - 68
+EP  - 74
+AU  - S. Selokar
+AU  - R. Satpute
+PY  - 2025
+KW  - Artificial intelligence
+KW  - Software
+KW  - Codes
+KW  - Testing
+KW  - Timing
+KW  - Tools
+KW  - Technology
+KW  - Productivity
+KW  - Security
+KW  - Encoding
+KW  - AI
+KW  - Software development
+KW  - Productivity
+DO  - 10.1109/IC-EETA66496.2025.11548285
+JO  - 2025 International Conference on Emerging Engineering Technologies and Applications (IC-EETA)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 International Conference on Emerging Engineering Technologies and Applications (IC-EETA)
+Y1  - 6-8 Nov. 2025
+AB  - AI is transforming the software development industry by increasing productivity, improving code quality, and enhancing collaboration between development groups. Artificial Intelligence (AI) is gradually making its way into the software development cycle across tools such as GitHub Copilot and TabNine that make it easier to get code written for example by auto-generating functions, auto-identifying code errors, and suggesting snippets of code for the developer to implement. Software developers are still able to produce stronger, better code because of heightened speed and reduced human-induced errors. AI-assisted code review programs will help emphasize best coding practices and document uniformity while improving the quality of the project by identifying security issues. Developers will increasingly be able to focus on difficult problems as AI helps complete the mundane tasks in a coding project and offers increased productivity. AI is changing the landscape for managing software development teams. AI-enabled project management systems evaluate historical project data to forecast difficulties in a project or task, as well as promote the best allocation of resources and scheduling of tasks. As predictive features allow teams to anticipate challenges and take action to keep projects on schedule and on budget, the automation of administrator duties whenever possible, particularly with AI-driven insights in real-time, augments teams’ decision-making abilities while enabling managers to balance resource allocation and process efficiencies. Development teams are furthering their collaborative efforts through the implementation of AI technologies. The test-case generation and refinement of user stories by AI tools both automate and support Behaviour-Driven Development (BDD) and Test-Driven Development (TDD) in the software testing processes.
+ER  - 
+
+TY  - BOOK
+TI  - Test-Driven Development in Go: A practical guide to writing idiomatic and efficient Go tests through real-world examples
+SP  - 1
+EP  - 
+AU  - Adelina Simion
+AU  - Miki Tebeka
+AU  - Mat Ryer
+PY  - 2023
+DO  - 
+PB  - Packt Publishing
+SN  - 9781803235028
+UR  - http://ieeexplore.ieee.org/document/10251201
+AB  - Explore Go testing techniques and leverage TDD to deliver and maintain microservices architecture, including contract, end-to-end, and unit testing Purchase of the print or Kindle book includes a free PDF eBookKey FeaturesWrite Go test suites using popular mocking and testing frameworksLeverage TDD to implement testing at all levels of web applications and microservices architectureMaster the art of writing tests that cover edge cases and concurrent codeBook DescriptionExperienced developers understand the importance of designing a comprehensive testing strategy to ensure efficient shipping and maintaining services in production. This book shows you how to utilize test-driven development (TDD), a widely adopted industry practice, for testing your Go apps at different levels. You’ll also explore challenges faced in testing concurrent code, and learn how to leverage generics and write fuzz tests. The book begins by teaching you how to use TDD to tackle various problems, from simple mathematical functions to web apps. You’ll then learn how to structure and run your unit tests using Go’s standard testing library, and explore two popular testing frameworks, Testify and Ginkgo. You’ll also implement test suites using table-driven testing, a popular Go technique. As you advance, you’ll write and run behavior-driven development (BDD) tests using Ginkgo and Godog. Finally, you’ll explore the tricky aspects of implementing and testing TDD in production, such as refactoring your code and testing microservices architecture with contract testing implemented with Pact. All these techniques will be demonstrated using an example REST API, as well as smaller bespoke code examples. By the end of this book, you’ll have learned how to design and implement a comprehensive testing strategy for your Go applications and microservices architecture.What you will learnCreate practical Go unit tests using mocks and assertions with TestifyBuild table-driven test suites for HTTP web applicationsWrite BDD-style tests using the Ginkgo testing frameworkUse the Godog testing framework to reliably test web applicationsVerify microservices architecture using Pact contract testingDevelop tests that cover edge cases using property testing and fuzzingWho this book is forIf you are an intermediate-level developer or software testing professional who knows Go fundamentals and is looking to deliver projects with Go, then this book is for you. Knowledge of Go syntax, structs, functions, and interfaces will help you get the most out of this book.
+ER  - 
+
+TY  - CONF
+TI  - Lessons learnt from using DSLs for automated software testing
+T2  - 2015 IEEE Eighth International Conference on Software Testing, Verification and Validation Workshops (ICSTW)
+SP  - 1
+EP  - 6
+AU  - M. Micallef
+AU  - C. Colombo
+PY  - 2015
+KW  - DSL
+KW  - Testing
+KW  - Games
+KW  - Automation
+KW  - Industries
+KW  - Androids
+KW  - Humanoid robots
+DO  - 10.1109/ICSTW.2015.7107472
+JO  - 2015 IEEE Eighth International Conference on Software Testing, Verification and Validation Workshops (ICSTW)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2015 IEEE Eighth International Conference on Software Testing, Verification and Validation Workshops (ICSTW)
+Y1  - 13-17 April 2015
+AB  - Domain Specific Languages (DSLs) provide a means of unambiguously expressing concepts in a particular domain. Although they may not refer to it as such, companies build and maintain DSLs for software testing on a day-to-day basis, especially when they define test suites using the Gherkin language. However, although the practice of specifying and automating test cases using the Gherkin language and related technologies such as Cucumber has become mainstream, the curation of such languages presents a number of challenges. In this paper we discuss lessons learnt from five case studies on industry systems, two involving the use of Gherkin-type syntax and another three case studies using more rigidly defined language grammars. Initial observations indicate that the likelihood of success of such efforts is increased if one manages to use an approach which separates the concerns of domain experts who curate the language, users who write scripts with the language, and engineers who wire the language into test automation technologies thus producing executable test code. We also provide some insights into desirable qualities of testing DSLs in different contexts.
+ER  - 
+
+TY  - CONF
+TI  - Enhancing the Student Learning Experience by Adopting TDD and BDD in Course Projects
+T2  - 2021 IEEE Global Engineering Education Conference (EDUCON)
+SP  - 1116
+EP  - 1125
+AU  - F. G. Rocha
+AU  - L. S. Souza
+AU  - T. S. Silva
+AU  - G. Rodríguez
+PY  - 2021
+KW  - Software testing
+KW  - Computer science
+KW  - Software design
+KW  - Software quality
+KW  - Tools
+KW  - Proposals
+KW  - Task analysis
+KW  - Software Testing
+KW  - Student Learning Experience
+KW  - Software Engineering Education
+KW  - course Project
+KW  - Agile Software Development
+DO  - 10.1109/EDUCON46332.2021.9453916
+JO  - 2021 IEEE Global Engineering Education Conference (EDUCON)
+IS  - 
+SN  - 2165-9567
+VO  - 
+VL  - 
+JA  - 2021 IEEE Global Engineering Education Conference (EDUCON)
+Y1  - 21-23 April 2021
+AB  - A demonstration of the application and contribution of Test-Driven Development (TDD) and Behavior-Driven Development (BDD) in the student learning experience in the context of a Software Engineering course. Background: Software testing is an activity for ensuring software quality. Although teaching testing rigorously to students is a priority in academia, undergraduate students often encounter difficulties performing testing tasks effectively. Intended Outcomes: To increase satisfaction rate and course grades, and reduce delivery time. Application Design: We experimented with the Software Engineering Laboratory (LES) course of a Private University in the Bachelor of Computer Science and Information Systems courses. This experiment corroborated the learning difficulties of students. Collected data were assessed both quantitatively and qualitatively. Findings: Backed up with statistical tests, the results showed a reduction in student absences, higher student satisfaction rate, and higher grades in the courses. Furthermore, our approach allowed students to deliver a product in a short period, representing a possibility of adoption of BDD due to their successful learning experience. Finally, we aim to foster a discussion of appropriate teaching methods of software testing.
+ER  - 
+
+TY  - BOOK
+TI  - Rapid Application Development with AWS Amplify: Full stack web development on Amazon Web Servics
+SP  - 1
+EP  - 
+AU  - Adrian Leung
+PY  - 2021
+DO  - 
+PB  - Packt Publishing
+SN  - 9781800201446
+UR  - http://ieeexplore.ieee.org/document/10162581
+AB  - Get to grips with the AWS Amplify framework and use it to build scalable cloud-native progressive web apps with React and cross-platform mobile apps with React Native in TypeScriptKey FeaturesExplore the capabilities of AWS Amplify with popular app frameworks for both web and mobile app platformsBuild your first cloud-native web and mobile applications using AWS AmplifyLeverage AWS Amplify to design GraphQL APIs for your web and mobile applicationsBook DescriptionAWS Amplify is a modern toolkit that includes a command line interface (CLI); libraries for JS, iOS, and Android programming; UI component libraries for frameworks like React, Angular, and Vue.js for web development, and React Native and Flutter for mobile development. You'll begin by learning how to build AWS Amplify solutions with React and React Native with TypeScript from scratch, along with integrating it with existing solutions. This book will show you the fastest way to build a production-ready minimum viable product (MVP) within days instead of years. You'll also discover how to increase development speed without compromising on quality by adopting behavior-driven development (BDD) and Cypress for end-to-end test automation, as well as the Amplify build pipeline (DevOps or CI/CD pipeline) to ensure optimal quality throughout continuous test automation and continuous delivery. As you advance, you'll work with React to determine how to build progressive web apps (PWAs) with Amplify and React Native for cross-platform mobile apps. In addition to this, you'll find out how to set up a custom domain name for your new website and set up the AWS Amplify Admin UI for managing the content of your app effectively. By the end of this AWS book, you'll be able to build a full-stack AWS Amplify solution all by yourself.What you will learnBuild React and React Native apps with Amplify and TypeScriptExplore pre-built Amplify UI components for rapid prototypingAdd user management with Amplify authentication to your appUse Amplify GraphQL to create a blog postDiscover how to upload photos to Amplify StorageEnable DevOps with the Amplify pipeline for your appGet to grips with BDD and test automation with Cypress and CucumberSet up a custom domain name for your website and manage app content with the Amplify Admin UIWho this book is forThis book is for developers and tech companies looking to develop cloud-native products rapidly with the AWS ecosystem. Web and mobile developers with little-to-no experience in TypeScript programming will also find this book helpful. Although no prior experience with AWS or TypeScript is required, basic familiarity with modern frameworks such as React and React Native is useful.
+ER  - 
+
+TY  - CONF
+TI  - User-Story-to-Test-Case Transformation in Agile Software Engineering: An SLR for Agentic LLM Framework Design
+T2  - 2026 International Conference on Computer, Control, Informatics and its Applications (IC3INA)
+SP  - 96
+EP  - 101
+AU  - H. Hermawan
+AU  - E. K. Budiardjo
+PY  - 2026
+KW  - Modeling
+KW  - Testing
+KW  - Large language models
+KW  - Printing
+KW  - Software engineering
+KW  - Reviews
+KW  - Context
+KW  - Test pattern generators
+KW  - Art
+KW  - Systematic literature review
+KW  - systematic literature review
+KW  - user story
+KW  - test case generation
+KW  - agile software engineering
+KW  - large language model
+KW  - agentic workflow
+KW  - multi-agent systems
+DO  - 10.1109/IC3INA72033.2026.11714691
+JO  - 2026 International Conference on Computer, Control, Informatics and its Applications (IC3INA)
+IS  - 
+SN  - 2994-5925
+VO  - 
+VL  - 
+JA  - 2026 International Conference on Computer, Control, Informatics and its Applications (IC3INA)
+Y1  - 3-5 Sept. 2026
+AB  - User stories are widely used in agile software engineering as a lightweight requirement artifact, but they are rarely sufficient as a single input for producing reliable test artifacts. Ambiguity, incomplete context, inconsistent backlog labels, and limited acceptance information constrain the direct transformation from user stories to test cases. This paper presents a systematic literature review that maps research patterns, gaps, and design implications for an agentic large language model framework supporting user story-to-test case transformation. The retrieval process used a 2016-2026 publication window and was executed across ACM Digital Library, IEEE Xplore, Scopus, ScienceDirect, and SpringerLink to cover major software engineering and computing venues. The search returned 361 initial records. After duplicate removal, title and abstract screening, retrieval checking, and full-text eligibility assessment, 42 studies were retained for the final corpus of the narrative-thematic synthesis. The synthesis indicates that user story-based test generation requires context enrichment through acceptance criteria, backlog information, requirement text, technical artifacts, and validation feedback. The reviewed studies also indicate a shift from rule-based, model-based, natural language processing, and behavior-driven development approaches toward large language model-based generation, retrieval-augmented generation, schema-aware prompting, validation loops, and multi-agent orchestration. Unlike broader reviews on LLM-based software testing or requirements-based test generation, this review isolates the agile user-story-to-test-case transformation path and derives an agentic design model in which requirement identification, context enrichment, test artifact generation, validation, and traceability checking are treated as separate but coordinated responsibilities within a role-based multi-agent workflow.
+ER  - 
+
+TY  - CONF
+TI  - Exploratory Study on Private GPTs for LLM-Driven Test Generation in Software and Machine Learning Development
+T2  - 2025 2nd International Generative AI and Computational Language Modelling Conference (GACLM)
+SP  - 245
+EP  - 249
+AU  - J. Jagielski
+AU  - C. Rojas
+AU  - M. Abel
+PY  - 2025
+KW  - Codes
+KW  - Translation
+KW  - Machine learning
+KW  - Syntactics
+KW  - Encoding
+KW  - Software
+KW  - Test pattern generators
+KW  - Reliability
+KW  - Standards
+KW  - Testing
+KW  - component
+KW  - formatting
+KW  - style
+KW  - styling
+KW  - insert
+DO  - 10.1109/GACLM67198.2025.11232354
+JO  - 2025 2nd International Generative AI and Computational Language Modelling Conference (GACLM)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 2nd International Generative AI and Computational Language Modelling Conference (GACLM)
+Y1  - 18-21 Aug. 2025
+AB  - In this contribution, we examine the capability of private GPTs to automatically generate executable test code based on requirements. More specifically, we use acceptance criteria as input, formulated as part of epics, or stories, which are typically used in modern development processes. This gives product owners, or business intelligence, respectively, a way to directly produce testable criteria through the use of LLMs. We explore the quality of the so-produced tests in two ways: i) directly by letting the LLM generate code from requirements, ii) through an intermediate step using Gherkin syntax. As a result, it turns out that the two-step procedure yields better results - where we define better in terms of human readability and best coding practices, i.e. lines of code and use of additional libraries typically used in testing. Concretely, we evaluate prompt effectiveness across two scenarios—a simple "Hello World" program and a digit classification model—showing that structured prompts lead to higher-quality test outputs.
+ER  - 
+
+TY  - CONF
+TI  - Generating Robot Framework Test Scripts from User Stories and Scenarios for Web Application Testing
+T2  - 2023 8th International Conference on Computer and Communication Systems (ICCCS)
+SP  - 795
+EP  - 801
+AU  - K. Waitchasarn
+AU  - A. Thongtak
+AU  - T. Suwannasart
+PY  - 2023
+KW  - Costs
+KW  - Communication systems
+KW  - XML
+KW  - Web pages
+KW  - Maintenance engineering
+KW  - Rendering (computer graphics)
+KW  - Software
+KW  - software testing
+KW  - test automation
+KW  - data-driven testing
+KW  - robot framework
+KW  - test script
+KW  - user story
+KW  - scenario
+DO  - 10.1109/ICCCS57501.2023.10151185
+JO  - 2023 8th International Conference on Computer and Communication Systems (ICCCS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2023 8th International Conference on Computer and Communication Systems (ICCCS)
+Y1  - 21-23 April 2023
+AB  - The Scrum Framework combined with Behavior-Driven Development (BDD) has gained popularity as an agile development process. In this approach, user requirements are captured and expressed through user stories and scenarios, which serve as examples and acceptance criteria. Employing small iterations, this process reduces both time and cost of software development. Nonetheless, frequent small iterations pose a significant challenge for testing, especially regression testing. To mitigate the problem, automation testing has been adopted; however, manually composing test scripts can be error-prone and inefficient. This can result in the essential regression tests being deferred to later iterations, rendering it too late to identify errors. This paper proposes an approach to address this issue by generating Robot test scripts automatically from user stories and scenarios. Using XML to lay out the UI structures of the web page, test scripts can be created during the design phase. In addition to the examples provided in scenarios, the XML Schema Definition (XSD) is utilized to produce augmented test datasets automatically. Parameterizing test scripts also enables multiple test scripts with shared test steps but different test datasets, to be consolidated into a single script, thus drastically reducing maintenance effort.
+ER  - 
+
+TY  - CONF
+TI  - Kraken-Mobile: Cross-Device Interaction-Based Testing of Android Apps
+T2  - 2019 IEEE International Conference on Software Maintenance and Evolution (ICSME)
+SP  - 410
+EP  - 413
+AU  - W. Ravelo-Méndez
+AU  - C. Escobar-Vélasquez
+AU  - M. Linares-Vásquez
+PY  - 2019
+KW  - Testing
+KW  - Engines
+KW  - Tools
+KW  - Graphical user interfaces
+KW  - Androids
+KW  - Humanoid robots
+KW  - Automation
+KW  - Signaling
+KW  - Automated Testing
+KW  - Cross-device Testing
+KW  - Cross-application Testing
+DO  - 10.1109/ICSME.2019.00071
+JO  - 2019 IEEE International Conference on Software Maintenance and Evolution (ICSME)
+IS  - 
+SN  - 2576-3148
+VO  - 
+VL  - 
+JA  - 2019 IEEE International Conference on Software Maintenance and Evolution (ICSME)
+Y1  - 29 Sept.-4 Oct. 2019
+AB  - Mobile applications that involve the interaction of two or more users are becoming more common nowadays, and the demand of good performance and availability by their users is increasing. This makes testing and automation of processes essential for delivering high-quality cross-device apps. In this paper, we present Kraken, a cross-device testing tool that enables a tester to write, run, and validate test scenarios that involve the interaction of more than two devices as well as its underlying implementation. The proposed tool uses APKs as input along with tests scripts wrote using the Gherkin syntax. Kraken is publicly available on GitHub https://thesoftwaredesignlab.github.io/KrakenMobile/ Videos: https://www.youtube.com/playlist?list=PLF5U8kfVgRcJ3RCHt7cWmwlqN93brbVW-
+ER  - 
+
+TY  - CONF
+TI  - RiverGame - a game testing tool using artificial intelligence
+T2  - 2022 IEEE Conference on Software Testing, Verification and Validation (ICST)
+SP  - 422
+EP  - 432
+AU  - C. Paduraru
+AU  - M. Paduraru
+AU  - A. Stefanescu
+PY  - 2022
+KW  - Software testing
+KW  - Quality assurance
+KW  - Statistical analysis
+KW  - Games
+KW  - Companies
+KW  - Dynamic scheduling
+KW  - User experience
+KW  - game testing
+KW  - automated testing
+KW  - BDD
+KW  - deep learning
+KW  - reinforcement learning
+KW  - computer vision
+DO  - 10.1109/ICST53961.2022.00048
+JO  - 2022 IEEE Conference on Software Testing, Verification and Validation (ICST)
+IS  - 
+SN  - 2159-4848
+VO  - 
+VL  - 
+JA  - 2022 IEEE Conference on Software Testing, Verification and Validation (ICST)
+Y1  - 4-14 April 2022
+AB  - As is the case with any very complex and interactive software, many video games are released with various minor or major issues that can potentially affect the user experience, cause security issues for players, or exploit the companies that deliver the products. To test their games, companies invest important resources in quality assurance personnel who usually perform the testing mostly manually. The main goal of our work is to automate various parts of the testing process that involve human users (testers) and thus to reduce costs and run more tests in less time. The secondary goal is to provide mechanisms to make test specification writing easier and more efficient. We focus on solving initial real-world problems that have emerged from several discussions with industry partners. In this paper, we present RiverGame, a tool that allows game developers to automatically test their products from different points of view: the rendered output, the sound played by the game, the animation and movement of the entities, the performance and various statistical analyses. We also address the problem of input priorities, scheduling, and directing the testing effort towards custom and dynamic directions. At the core of our methods, we use state-of-the-art artificial intelligence methods for analysis and a behavior-driven development (BDD) methodology for test specifications. Our technical solution is open-source, independent of game engine, platform, and programming language.
+ER  - 
+
+TY  - CONF
+TI  - Semantic-Contextual Automation of Scriptless BDD Testing for Intelligent Test Coverage Enhancement
+T2  - 2025 6th International Conference on Communication, Computing & Industry 6.0 (C2I6)
+SP  - 1
+EP  - 9
+AU  - S. S. Murugan
+AU  - M. Balamurugan
+PY  - 2025
+KW  - Automation
+KW  - Accuracy
+KW  - Video on demand
+KW  - Scalability
+KW  - Manuals
+KW  - Software quality
+KW  - User interfaces
+KW  - Web sites
+KW  - Scenario generation
+KW  - Testing
+KW  - BDD
+KW  - locator
+KW  - widget
+KW  - JSON
+DO  - 10.1109/C2I666499.2025.11366954
+JO  - 2025 6th International Conference on Communication, Computing & Industry 6.0 (C2I6)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 6th International Conference on Communication, Computing & Industry 6.0 (C2I6)
+Y1  - 5-6 Dec. 2025
+AB  - This work proposes a framework to improve test automation for Android applications using Behavior-Driven Development (BDD). It addresses the challenges posed by dynamic user interfaces, complex view hierarchies, and unstable locators by capturing user interactions through browser-mirrored Android screens. The framework integrates AI-based widget classification, image-based object detection, and dynamic XPath generation to enhance locator reliability. Test scenarios-including positive, negative, and boundary cases are structured in JSON and automatically converted into BDD feature files, increasing test coverage and minimizing redundancy. Automation of script generation and locator healing reduces manual effort while improving scalability, accuracy, and efficiency in test case management. The optimized validation pipeline supports comprehensive scenario generation and accelerates functional testing, thereby improving software quality in dynamic Android environments.
+ER  - 
+
+TY  - CONF
+TI  - Acceptance Test Generation with Large Language Models: An Industrial Case Study
+T2  - 2025 IEEE/ACM International Conference on Automation of Software Test (AST)
+SP  - 1
+EP  - 11
+AU  - M. Ferreira
+AU  - L. Viegas
+AU  - J. P. Faria
+AU  - B. Lima
+PY  - 2025
+KW  - Costs
+KW  - Codes
+KW  - Automation
+KW  - Accuracy
+KW  - Large language models
+KW  - Natural languages
+KW  - Software
+KW  - Test pattern generators
+KW  - Usability
+KW  - Testing
+KW  - Acceptance Testing
+KW  - Large Language Models
+KW  - Automatic Test Generation
+KW  - Web Application Testing
+DO  - 10.1109/AST66626.2025.00007
+JO  - 2025 IEEE/ACM International Conference on Automation of Software Test (AST)
+IS  - 
+SN  - 2833-9061
+VO  - 
+VL  - 
+JA  - 2025 IEEE/ACM International Conference on Automation of Software Test (AST)
+Y1  - 28-29 April 2025
+AB  - Large language model (LLM)-powered assistants are increasingly used for generating program code and unit tests, but their application in acceptance testing remains underexplored. To help address this gap, this paper explores the use of LLMs for generating executable acceptance tests for web applications through a two-step process: (i) generating acceptance test scenarios in natural language (in Gherkin) from user stories, and (ii) converting these scenarios into executable test scripts (in Cypress), knowing the HTML code of the pages under test. This two-step approach supports acceptance test-driven development, enhances tester control, and improves test quality. The two steps were implemented in the AutoUAT and Test Flow tools, respectively, powered by GPT-4 Turbo, and integrated into a partner company’s workflow and evaluated on real-world projects. The users found the acceptance test scenarios generated by AutoUAT helpful 95% of the time, even revealing previously overlooked cases. Regarding Test Flow, 92% of the acceptance test cases generated by Test Flow were considered helpful: 60% were usable as generated, 8% required minor fixes, and 24% needed to be regenerated with additional inputs; the remaining 8% were discarded due to major issues. These results suggest that LLMs can, in fact, help improve the acceptance test process, with appropriate tooling and supervision.
+ER  - 
+
+
