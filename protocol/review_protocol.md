@@ -139,7 +139,8 @@ Each record is then screened on title and abstract, and the remaining records on
 - no technical or empirical content (editorials, position papers, tutorials);
 - full text not accessible;
 - not written in English;
-- another version of a work already included. The peer-reviewed version is kept in preference to a preprint and, between versions of the same kind, the most complete one.
+- another version of a work already included. The peer-reviewed version is kept in preference to a preprint and, between versions of the same kind, the most complete one;
+- retracted, or flagged by its publisher for a breach of publication rules (e.g., an IEEE "Notice of Violation of IEEE Publication Principles").
 
 Every record receives one of three decisions: include, exclude, or exclude but borderline.
 The reason is recorded for every exclusion made on full text and for every borderline case.
@@ -235,6 +236,9 @@ The following are kept in the project repository, under version control:
 - the extraction table (`review/extraction.csv`);
 - the comparison table of Part 2 (`tool_survey/tool_comparison.csv`).
 
+In the screening sheet, `pub_type` takes one of three values: `peer-reviewed`, `preprint` or `other`.
+`other` covers records that are neither, such as books and courses; the label given by each source stays in the raw exports.
+
 The number of records at each stage is reported.
 
 ## 12. Update
@@ -271,3 +275,5 @@ Wohlin, C., Kalinowski, M., Felizardo, K. R., & Mendes, E. (2022). Successful co
 | Date | Section | Change | Reason |
 |---|---|---|---|
 | 2026-11-22 | All | Protocol frozen as version 1 (tag `protocol-v1`); later changes are entered below. | Fix the protocol before the first search (supervisor, e-mail of 21 Nov 2026). |
+| 2026-11-23 | §5 Selection | Added the exclusion criterion "retracted, or flagged by its publisher for a breach of publication rules". | Record IEEE-054 carries an IEEE notice of violation, which the criteria did not cover (supervisor, e-mail of 23 Nov 2026). |
+| 2026-11-23 | §11 Records | Defined the values of `pub_type` in the screening sheet: `peer-reviewed`, `preprint`, `other`. | Each source used its own labels; one set of categories is needed to count records at each stage (supervisor, e-mail of 23 Nov 2026). |
